@@ -1,0 +1,3505 @@
+[
+{
+    "ethereum_leg": {
+        "token_address": "0x3758e00b100876C854636eF8Db61988931BB8025",
+        "transaction_hash": "0x4f36f8892adb938fcbb9862b85bbf0834fdec2b8dc012244eb0dbd662cbed076",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x3758e00b100876C854636eF8Db61988931BB8025",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 17576371815829420726116,
+                "amount_out": 414739537945752655,
+                "event_index": 91
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x999866578616b18f0120c87eec3b43f238f6ee139920fab5df2bc6eb462d5f31",
+    "bridge_to_ethereum_transaction_hash": "0x5c841c7c7291e1a703b38895ffa8033681afd194de32744621dadc0e2b124a72",
+    "direction": 2,
+    "amount_bridged": 17576371815829420726116
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "transaction_hash": "0x9d132aa292f6bf6bf1574c2a01ba8be58cea45ae1be654f39ec64b49c2e42415",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 169981328802142177655561935,
+                "amount_out": 717335924307462468,
+                "event_index": 90
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x2fbeecce118f6db497afa2d553fc861f34bcf25e22efef84daf9e2745b91a869",
+    "bridge_to_ethereum_transaction_hash": "0x48641f07a0010c20fe7bd59b1edb9a2a57249848e4ee6e3d12b2e77ed63ab975",
+    "direction": 2,
+    "amount_bridged": 169981328802142177655561935
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+        "transaction_hash": "0x18c6905f2414babe14063709fb1ed24dc2b7db0506b7053775b15c291d2ca350",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 24440624722082361959,
+                "amount_out": 180481640,
+                "event_index": 45
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x16d9d00cea7ab2c538a5e56e3f00bab9211e1d61744f506eb3e0e51489764c50",
+    "bridge_to_ethereum_transaction_hash": "0xdda05656efae364b80d80062da957455a7f05ecc3fe1090d4d9cb2787d8267b3",
+    "direction": 2,
+    "amount_bridged": 24440624722082361959
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+        "transaction_hash": "0xe91b40065bfc872ae43f475111be982bbbac705fc5b3fd477333176cdd14ee51",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 6252633987461528341846,
+                "amount_out": 476618760409928138,
+                "event_index": 38
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x4097aca37de257c30dae3f33c92af95e0c1a16d316bf80ae75a12ed14a990fc7",
+    "bridge_to_ethereum_transaction_hash": "0x987db89c98e0fa4781e02e63231615861b385b12b61f754d994b29650b7b322b",
+    "direction": 2,
+    "amount_bridged": 6252633987461528341846
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0xa9fa9133545b6fdfd2d9dc432307b4f5539e78d5f285a58f7914606e270070d6",
+        "searcher_eoa_address": "0x6eA16D099D1c0C2A56B0CF2b687d48F413988F39",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "amount_in": 757362921645538000,
+                "amount_out": 179070477543660173451727,
+                "event_index": 52
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xa8ebd7b84e514ed1a432eccb20a8fbb35663a8d58b23f0ebe3fc31ee1d7d0d03",
+    "bridge_to_ethereum_transaction_hash": "0x7304d8b56883207766360c1b203e17d18b96ba312edf581e8fb769578e233043",
+    "direction": 1,
+    "amount_bridged": 179070477543660173451727
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+        "transaction_hash": "0x66fdc4acc6aa6c56f789bcdb18fdd23dcc38010050989f1d906f6a69e59b9cbf",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 2736256730668744697839391,
+                "amount_out": 866475722167695466,
+                "event_index": 27
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xaa078d14509d81144539ba0fbd6317aa9b9733ce6658e4af8ab1db30575a6674",
+    "bridge_to_ethereum_transaction_hash": "0xf6ce8418d587249e7631d6f05eb9ec2592d9f2d700d5ea82428900076aefbb3d",
+    "direction": 2,
+    "amount_bridged": 2736256730668744697839391
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+        "transaction_hash": "0xb7366dfad11c847ff5bc8d5d6291feecd2ced6e6e7ae995c8ee4f0bed4d9a8d5",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 4411450517212015852860,
+                "amount_out": 444791887628979034,
+                "event_index": 38
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xa0857b0e108ca9f51a423c75f51757fec273e79fc31b66d3e3389469a0d06939",
+    "bridge_to_ethereum_transaction_hash": "0x40318d811896cd2616bf9dda8446724ec94048cddfab178cdca1b38d95fcc858",
+    "direction": 2,
+    "amount_bridged": 4411450517212015852860
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x7cd51367234535d11e346d21916e2f4f6fc86027d6b4d6df8954dab7f946fccd",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 718625623911,
+                "amount_out": 253878123561918877,
+                "event_index": 61
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x55c45a2837c9516c0da7d63938de2d3952c43f0e516f16b00bdaa92fef18818c",
+    "bridge_to_ethereum_transaction_hash": "0x287c524debb99fe55acd0356051a3dd86f63ffbbf6f5678de243f4e4b57cf7b1",
+    "direction": 2,
+    "amount_bridged": 718625623911
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x6c912cb8e47e3c96fdc2ee5d0c9e2f21ab03cd72ee55381228387d110b92566b",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 678707312822,
+                "amount_out": 236154267734543416,
+                "event_index": 31
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x55c45a2837c9516c0da7d63938de2d3952c43f0e516f16b00bdaa92fef18818c",
+    "bridge_to_ethereum_transaction_hash": "0x14a635f143da9f6393b3f76a82c521d4c9101cc1008d49a1cbc165b005512994",
+    "direction": 2,
+    "amount_bridged": 678707312822
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+        "transaction_hash": "0x6b62b953cf81d31e24acc01105008d3c0424445fd0b016cca47718bf683b5773",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 24691055289369536639938,
+                "amount_out": 699006048,
+                "event_index": 83
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x91420a886aeb1e887841556774e94c60d4904020dd545c78fd7ea37e8f6fdc9f",
+    "bridge_to_ethereum_transaction_hash": "0x63e93641f8c170f931930e4da247133960361d2d791e9287e80af3777a63c7dd",
+    "direction": 2,
+    "amount_bridged": 24691055289369536639938
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+        "transaction_hash": "0x70c74828317a2544c4981bb9b2d95742fb78767063f38ac3000eb7c47dcfe4db",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 20017439561443282816675,
+                "amount_out": 452940936700291472,
+                "event_index": 18
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x8670138151e0d5ee8eca5c6977d2239ac90c787f7fd07cff56280e4e9c9f4ee2",
+    "bridge_to_ethereum_transaction_hash": "0x0d6eb8fa1d6ee18f8d425884050406592f923751affe9752f844f9da18d901a7",
+    "direction": 2,
+    "amount_bridged": 20017439561443282816675
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+        "transaction_hash": "0xe796b7a4e7740d512d03b1f23d7fd5309441dfcb32a8b99cf6211de7bea5529d",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 32008781275888086047503,
+                "amount_out": 1158051747,
+                "event_index": 11
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x655904c940129d2024cbda1303a0795efc04aab6a95fef1df0fba0270a713ec0",
+    "bridge_to_ethereum_transaction_hash": "0x32d129b7e16516b1fdc8794b604a1fc258a21ef64b2cad65e5dfccf208af280e",
+    "direction": 2,
+    "amount_bridged": 32008781275888086047503
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+        "transaction_hash": "0x6986510083e388712e985b67a151a38c556c3127ce7d88c2b2c11e720fcd9903",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 42002607409,
+                "amount_out": 127624783835737012,
+                "event_index": 83
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xc4ded7894923ce196101074688ce4a2c48efd81f6d3235409ea7e49fc39d46fc",
+    "bridge_to_ethereum_transaction_hash": "0x9df59a7102ca08bd687cc02c39391cbb7f24bf0ab12865385ae200b004a1f320",
+    "direction": 2,
+    "amount_bridged": 42002607409
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+        "transaction_hash": "0x964b47268ca6c45728f0aa606b8ea4ec38cf698b505b9510e3539b0605d67cbc",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 34104753980371275816920,
+                "amount_out": 817770379152848862,
+                "event_index": 14
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x866ba885a6a27bf6b74b6913be2b81bffe307470965a4e991b0b82d24a6ef1db",
+    "bridge_to_ethereum_transaction_hash": "0x3e4c0a1fb12ab506ed13cc1f96ee67acbb752f2187b533ef3bc67e65d697bcc1",
+    "direction": 2,
+    "amount_bridged": 34104753980371275816920
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107",
+        "transaction_hash": "0xc8efb2e807e3eb3d3bd7d52130b8de48181899b99da9d7b1a7ccfe65153399b5",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 3206639811039240594006,
+                "amount_out": 407843808025489804,
+                "event_index": 23
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x7eb1ecfb88007e3e554bc6cef54cff5e06576316ac5ac9951232e0a015ba9547",
+    "bridge_to_ethereum_transaction_hash": "0x3fac2ee8dc04b62171d3b354d75f16da1f4e6238b18a7d55f2d174886535b611",
+    "direction": 2,
+    "amount_bridged": 3206639811039240594006
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+        "transaction_hash": "0x2989cc659885d337be215979a26e424678c8e6997bede8fdd40c96ba822d78db",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 28719513300704977133003,
+                "amount_out": 254893213355820282,
+                "event_index": 60
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x40591cd50457079976b52c836fe8a7453d3549201d013573f2382e242f9ffd32",
+    "bridge_to_ethereum_transaction_hash": "0x7572508df070a875a6281a800988bc2389c58b64b7d7486d6cf29e95e2fe36ee",
+    "direction": 2,
+    "amount_bridged": 28719513300704977133003
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+        "transaction_hash": "0xb2848b47dda2c38d675ea9a37c8430cd3b55cc439d7a90205f4728defe5a116d",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 78930181446835168353039,
+                "amount_out": 972029356537265737,
+                "event_index": 19
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd801931e7d30a649d50bf6a920291f7bdac99eaf2311ab2638d07c708d47391d",
+    "bridge_to_ethereum_transaction_hash": "0x6fddd3baf402d67d3762ec0a49011e359a96ef71ce216ce6fdac09594ed1a9df",
+    "direction": 2,
+    "amount_bridged": 78930181446835168353039
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+        "transaction_hash": "0x42649aad7462579a775d614f35776497b4b4e27198f98be490c64bac7141dd9c",
+        "searcher_eoa_address": "0xE7abfd127CFbEfA31ba6b37904B70D59037108f0",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 6490986289091882043579,
+                "amount_out": 393064181387883730,
+                "event_index": 24
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x2f1533d2053da6a850a7b5b253cb695df14e992f39722bad52a0c1ddc7a317a9",
+    "bridge_to_ethereum_transaction_hash": "0x64e7f7be144be18e2072e3bcd25a533a1cd830c2de7bc5e50b61e291b13b3bf6",
+    "direction": 2,
+    "amount_bridged": 6490986289091882043579
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0x752bbfdc23d59b6e971d2255e5002ef0a960101a13d558f239f87c3cafe34df0",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 43281600526327188801728,
+                "amount_out": 790591719354282346,
+                "event_index": 39
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xda773cff07010b5dfa2840b09e161bce7591ef2ab6fe0a339c8b3c0554f9e7b9",
+    "bridge_to_ethereum_transaction_hash": "0xacb250af887896b11b29ba10f38516bb94a48428285390455cd7d41d77aa2471",
+    "direction": 2,
+    "amount_bridged": 43281600526327188801728
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x7a3e9265ad18c61b5e791a25ea888092c5703fc30b73cd7eb94b310194f97612",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "amount_in": 706262770845367000,
+                "amount_out": 120098120323745699878591,
+                "event_index": 26
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xec990563126063cd2ff67e331de584f63020c28dbc6a91bf184cb7ef5aed3d07",
+    "bridge_to_ethereum_transaction_hash": "0x15498e91bec38e917dd1eca2d5050a2e2b0783480d75ea406e6a4b2b30bea02b",
+    "direction": 1,
+    "amount_bridged": 120098120323745699878591
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99",
+        "transaction_hash": "0xfd42b7a1a00115ac0882682dc336ad7883b1e54a581b006a4780d34f1a665b35",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 79246578242070041142698,
+                "amount_out": 123702598674225538,
+                "event_index": 120
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xde13a4e83114912227f0981036d3c9a766617dbefd789d37875bdfec980aa752",
+    "bridge_to_ethereum_transaction_hash": "0x9049cb8f5c0de81e270dd1229b35e1571cd6bde91b49dd2ec6d2b815fecd9919",
+    "direction": 2,
+    "amount_bridged": 79246578242070041142698
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x5e1595a90f7fd71b4075a358f8a9eb6b48617d37a16e63d928aeeffc018c4656",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 120098120323745699878591,
+                "amount_out": 685712116810186404,
+                "event_index": 22
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xec990563126063cd2ff67e331de584f63020c28dbc6a91bf184cb7ef5aed3d07",
+    "bridge_to_ethereum_transaction_hash": "0x15498e91bec38e917dd1eca2d5050a2e2b0783480d75ea406e6a4b2b30bea02b",
+    "direction": 2,
+    "amount_bridged": 120098120323745699878591
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "transaction_hash": "0xf42818545bfb8abcdc0524d8875b017d0f29b163aaa77c499af9dafbcc81174e",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 42154372754885252424,
+                "amount_out": 981258170280471842,
+                "event_index": 48
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xee23bbc6e682de5355ea5cba810d8e3e9f7a5c7130b43b297bd10812f238cb30",
+    "bridge_to_ethereum_transaction_hash": "0xf782537d14741a2b6a66f90d62f5f71784b211248da0acb3ffc9bcced3018064",
+    "direction": 2,
+    "amount_bridged": 42154372754885252424
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0xbf49332c576378d64622bf271927f06a5468d88d0d118653cc5d15c8437f5152",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 641723313238,
+                "amount_out": 249436556239788075,
+                "event_index": 83
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x63656381e71ec37e2af19f26b847bfe61fcddc833dfe85225dcbc3b2b9ac20a1",
+    "bridge_to_ethereum_transaction_hash": "0x8ea283cdb409b4619d94eb5b22716bfc4e1649fbbe1a9bc2fc5d6c61e9a5ed42",
+    "direction": 2,
+    "amount_bridged": 641723313238
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0xa9742b305691020f349d9aa285d973d3579bab01c4117aa2048fcfce64e5273a",
+        "searcher_eoa_address": "0xE1C58Fcb072dE6b083bf5a40C2d87c00735Eca0e",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "amount_in": 866040551161280000,
+                "amount_out": 41011172556580137737697,
+                "event_index": 67
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xbeea0828c6675d58357b6acfc859f134f230ebde3eb482b7fef8994e7739d48c",
+    "bridge_to_ethereum_transaction_hash": "0x4704ac6e89d22da27add73c69522a10b421d51d62060ed048864742cdc075417",
+    "direction": 1,
+    "amount_bridged": 41011172556580137737697
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+        "transaction_hash": "0x2cf8a7f186719a5d1df598116d1001316e533398d0154648b922e917ac8c8a57",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 5090216506340009837931,
+                "amount_out": 177863028834777762,
+                "event_index": 68
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x9571e727af367eb49238c0c961099cf1556db0e1d327c1df86ebb5be1cb8583c",
+    "bridge_to_ethereum_transaction_hash": "0x73987e95f163f3c9c8624eb4e832a8178cbca46be8f053402ad87d340d280d78",
+    "direction": 2,
+    "amount_bridged": 5090216506340009837931
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+        "transaction_hash": "0x8873904d832aa6cfc56a39d056774fd0b35850d88b2e02e9028481f1cbb2f3a4",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 25602864265632434591145,
+                "amount_out": 154759838234604328,
+                "event_index": 52
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x7c1728152b87dfa5508b9aefdfdb361a7f9d1f6ae48bde3fbd850359c0433f62",
+    "bridge_to_ethereum_transaction_hash": "0x605b72298864aef9b288273e18be4bdc738a784a65f820a6e00a439790f7e62e",
+    "direction": 2,
+    "amount_bridged": 25602864265632434591145
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+        "transaction_hash": "0x6e7fca956579736b9ee5186554dc0142b56a1a844e4971de6bb8b34a1bc71eca",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 244316010125557,
+                "amount_out": 414802646974496131,
+                "event_index": 40
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xa744b072f6ab3fd947553a7018dd8b6cc119b41e6434634b0ee13d41ba29e9da",
+    "bridge_to_ethereum_transaction_hash": "0x6af136f020882020ec1bdf8e90fa010d379fab8f7f7957fb98a4d734ab3e868d",
+    "direction": 2,
+    "amount_bridged": 244316010125557
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x3ec8bfee981c48d45184cb48587c22467b1a171e2fb08eb581afd1961060e288",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                "amount_in": 254662775419560662092464,
+                "amount_out": 671752133,
+                "event_index": 117
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xf48807618dfcc6671f4b1c74f7eaf8be7a06327d20f11c0e3506297a86eb1a85",
+    "bridge_to_ethereum_transaction_hash": "0xb1e24f4ad6783cef03afb8379bf59c0151e839ef267f34e781878e34a72e714b",
+    "direction": 2,
+    "amount_bridged": 254662775419560662092464
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0xfa328b3a566016b0f4140c462aba04d52da62c6a2b83e9eab429c1ae39b40aa1",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1248784173990711115518,
+                "amount_out": 378765457900163388,
+                "event_index": 58
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xacb75917a50186d8b930fdfe66f9e87850f19381b9b8a38416e716dcbdde2795",
+    "bridge_to_ethereum_transaction_hash": "0x5ca65ea11f096ee441b95108bd3957511d1686eb179bc3fcb71b71f6029d0387",
+    "direction": 2,
+    "amount_bridged": 1248784173990711115518
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x274944e905e581b9f8d41834c86f83ce417b944f1545011899de3e5451f21387",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1247874196667500918026,
+                "amount_out": 378304635776759639,
+                "event_index": 31
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xacb75917a50186d8b930fdfe66f9e87850f19381b9b8a38416e716dcbdde2795",
+    "bridge_to_ethereum_transaction_hash": "0xebbc0a8866058f2fd2212f28bd43acb7ede052822998ad4d3df110cffdb3d0d9",
+    "direction": 2,
+    "amount_bridged": 1247874196667500918026
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+        "transaction_hash": "0x652ef84f8b569d6621d60bd89bd6b0adce10cd41083ea840f9725e8e6c0b11ce",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 769920303984357973690,
+                "amount_out": 150650286184825601,
+                "event_index": 34
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x713e51c010797d1a8a87e4519abb6eee39d800b02007c0d57c404e36efda89a7",
+    "bridge_to_ethereum_transaction_hash": "0x153bbab2409cd632f818749be6b0be45e63c07cf7c9a522dadcf7b417f5c98a5",
+    "direction": 2,
+    "amount_bridged": 769920303984357973690
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+        "transaction_hash": "0x6c662b3286633124374e6b9a554ba4116c4811ab55a9cbf3e314facf4a9dafe0",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 258178324914969065829,
+                "amount_out": 50453108643054563,
+                "event_index": 44
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x713e51c010797d1a8a87e4519abb6eee39d800b02007c0d57c404e36efda89a7",
+    "bridge_to_ethereum_transaction_hash": "0x3c95c692f031f6b4603c8ec8b818a0449cd27c9a2f2c17e44bd1be8c43dc4d8c",
+    "direction": 2,
+    "amount_bridged": 258178324914969065829
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+        "transaction_hash": "0x396755d9c1c10e1218cc2d6631a23f0ad4fe32bf1f094a62eca5d9a2bbfacf0a",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 10962398403196584400933,
+                "amount_out": 886352344,
+                "event_index": 71
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x2cd5294d2c632dc59e7b5f1bbc2d99287918c52031fab415bfbceed5b86ab60a",
+    "bridge_to_ethereum_transaction_hash": "0xae8a4bc9d75b8b7395ed174b64eac50e49e85636709bae378409dab223735c90",
+    "direction": 2,
+    "amount_bridged": 10962398403196584400933
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+        "transaction_hash": "0x3d74dc9cac42f3713dfbe0ebd169728ee6f2343b176dd999d381cf9c3cde1563",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 15963780662031603298450,
+                "amount_out": 471570457968788399,
+                "event_index": 79
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0a77a44146b80556b116daf785c5c8c1d5231e83620a4419a80a316261d37a37",
+    "bridge_to_ethereum_transaction_hash": "0x928cc45edba43633a4b10d4678517b90b3f8de5411dc2187598b8d3f8d60f3bc",
+    "direction": 2,
+    "amount_bridged": 15963780662031603298450
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+        "transaction_hash": "0xb23341c0a30beb3b11c1f026bb2353fe8edb1d94ff5c45e29a73605f1ca7f4f5",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 28528906779877877128913,
+                "amount_out": 271215378150491650,
+                "event_index": 5
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xe92a5e6eb1e37359209398f8880b3027622a15036dbb0ab0d758201b51f8e202",
+    "bridge_to_ethereum_transaction_hash": "0x4078dd13b212dd8493db00a96ed407940576c734ab4569d6073993bbb64c7004",
+    "direction": 2,
+    "amount_bridged": 28528906779877877128913
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99",
+        "transaction_hash": "0xd5ad4126b0dd22e8de82fc3f9c29d62a7d1ea077c3c845ea429e474202927f3f",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4c3bAe16c79c30eEB1004Fb03C878d89695e3a99",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 35991437120309726352020,
+                "amount_out": 57943715429172722,
+                "event_index": 39
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xc7d19c0453a868e0f88b272b4293e9be1f7ccad7a0b97842453f0e49e5a73f08",
+    "bridge_to_ethereum_transaction_hash": "0x0bb755ec35e9ead2ee25d48731bd871979cb54d429f446c80deddc143c88422b",
+    "direction": 2,
+    "amount_bridged": 35991437120309726352020
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "transaction_hash": "0xf8b3442fac7ba24119ce4a937609bc698058d27358be22ce74b265814db16971",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1873009052957549677809,
+                "amount_out": 2005975814345887352,
+                "event_index": 12
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd4fe831fdcb44f4441fa79a92917365492a26c6f394c5516f972609c6863b7aa",
+    "bridge_to_ethereum_transaction_hash": "0x831b5612e166d2118da642712ad0df0eebe5ca5236d413f2c7b1883ca6bedba8",
+    "direction": 2,
+    "amount_bridged": 1873009052957549677809
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+        "transaction_hash": "0x9c4935893928e13a60de1b5a260d803a8cc0149ec2ec8c933bf9c93e1504c101",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 142239308411303057681396,
+                "amount_out": 1352691133817586622,
+                "event_index": 69
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x35900e5cc87450d16ed0f83577283d3f6603c41684a21343553eee77cab62128",
+    "bridge_to_ethereum_transaction_hash": "0x194a1dcc7f08f1d1cc2f16bbd0e2662a398ac00235f2379eb1296a18ba53b734",
+    "direction": 2,
+    "amount_bridged": 142239308411303057681396
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+        "transaction_hash": "0x5a76e878b1dbedea0155e43f336d12915310b0ed6d80213e15f663678f3b01fc",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 193235229887617238134934,
+                "amount_out": 336977467575237114,
+                "event_index": 54
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x202ada9bd159c9f3e138514dc5bdc116e4d0bfb5aece839fe43fd5bc5ae71a81",
+    "bridge_to_ethereum_transaction_hash": "0x69c072574ede373fa88aae7b99c21f4d13929c0d231c6a3839320f26a36ffb0b",
+    "direction": 2,
+    "amount_bridged": 193235229887617238134934
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+        "transaction_hash": "0x385bf310cbce80bb5e8d0008c10f9105b8145a6bac47fba420e919a360270bda",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 761326993172555509199,
+                "amount_out": 137025373694463822,
+                "event_index": 24
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x4422a046625d7cee70107d9ba53cefbd7c6df364b6143ae607dc1cffafcf4c90",
+    "bridge_to_ethereum_transaction_hash": "0x970e9279912b00b8d300290668520b191699f31f6761e33439e47ddc21595f64",
+    "direction": 2,
+    "amount_bridged": 761326993172555509199
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+        "transaction_hash": "0xed8ea45e0584945d7773a765c92ff71408bf910aebe4c06c43fbfde2e3f775b2",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 61462700611561578764840,
+                "amount_out": 878248626062225171,
+                "event_index": 38
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xb8fe4702ab9120771fc5e19e3c47fc3f0a89041a7f8ad787af5c5b55d7664adf",
+    "bridge_to_ethereum_transaction_hash": "0xf62355d4ef89c979fe7aa3e832019b5741bd1ddd66147dd40d56e6e78523f429",
+    "direction": 2,
+    "amount_bridged": 61462700611561578764840
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+        "transaction_hash": "0xe177f707f17381cad70da75db8b7573f13a7f752033493fafe52dc9058ace519",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 74519570228827607863231,
+                "amount_out": 120725635880002906,
+                "event_index": 66
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x440356d5b2175d669fb54a49f99ca49d280283e2592047d56e466106a74a8925",
+    "bridge_to_ethereum_transaction_hash": "0x39030cb5ddf722a1c922adfa551cd2886492b4e87f3b94d4be9f43ff07de5fa5",
+    "direction": 2,
+    "amount_bridged": 74519570228827607863231
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x2279f530e4ce813a78e4447f5c681a84de2c27ddf490da9577814be0e3779df7",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 300150490941,
+                "amount_out": 87383387122034950,
+                "event_index": 78
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x87245b3d6ee95e61d04cdcdf092b17a329df232846364b4281e393ac1ca4b7fa",
+    "bridge_to_ethereum_transaction_hash": "0x6b969e79ce31a77073c3ffe9db819e4e2622669ecf88e0d5bc6efd971cd87d3e",
+    "direction": 2,
+    "amount_bridged": 300150490941
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x3ac64df6248f6a600d9d043fe30f0706afe46a0aff89375bff93a74357f7a288",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 555334635307,
+                "amount_out": 155836793870553609,
+                "event_index": 82
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xedd4391e4e8beac0818b3696d8886c3c4d1cd30d5c59eb6b6dabfb02ae4861c5",
+    "bridge_to_ethereum_transaction_hash": "0xc80d836a593e64803756327cf3492e5a41cdd654b896db9f8dec41052e454e53",
+    "direction": 2,
+    "amount_bridged": 555334635307
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8765b1A0eb57ca49bE7EACD35b24A574D0203656",
+        "transaction_hash": "0x2d35f58187843b523f901ac8c9c8ed1ec45fdd8f2a255289be7e4087bd013f24",
+        "searcher_eoa_address": "0x9996150493Fd4E640219304998ED781a7b744785",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8765b1A0eb57ca49bE7EACD35b24A574D0203656",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 152542739228056063403304,
+                "amount_out": 184007678498701095,
+                "event_index": 20
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x5b4391e4fa399e2be4528c0745bc5f05f5c223093bde6f8405dec7093b56b1c1",
+    "bridge_to_ethereum_transaction_hash": "0x7aa4424e4e9269cc79c29d98f3473ff3bfcfd02d1b098021e0ba7365ed045fff",
+    "direction": 2,
+    "amount_bridged": 152542739228056063403304
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+        "transaction_hash": "0x5416348308d64f9f1f5b379bab769ff316bdaea7410dedd8a48d09068e0722bf",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 4211213464797775374766,
+                "amount_out": 482709229301607647,
+                "event_index": 84
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xe16ce04708898b30cc6edf420147d64863b023f708eae3120d53823fb5d42fe5",
+    "bridge_to_ethereum_transaction_hash": "0xe41bb81a41e9e3acd7273d5b748a8f2be1d823d1307fb68b4ed28b4df4b3e939",
+    "direction": 2,
+    "amount_bridged": 4211213464797775374766
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B",
+        "transaction_hash": "0x8bb04d0cee76ab7296d7257bc9002439d0ca6a2d1cd82015a207bb694ce977d0",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x5fab9761d60419C9eeEbe3915A8FA1ed7e8d2E1B",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 417976853421667161014,
+                "amount_out": 69411864957687035,
+                "event_index": 112
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x385508f93eb9a45bbda940fa09524f16a3ac4c9780c05839cd374bfcbf51af46",
+    "bridge_to_ethereum_transaction_hash": "0xe2db24ca8a6497f6639b5b2c4ac8671e8fb88186b57bd103929f68e25d986e1e",
+    "direction": 2,
+    "amount_bridged": 417976853421667161014
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+        "transaction_hash": "0xa9d0a32185437469f9b245b2cdc8a6effae2c4cfbf2ab7ab6ed33c2b24e36c1e",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 722668939972882349,
+                "amount_out": 795153722982004217,
+                "event_index": 46
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xfbe8532b491ffcd5de86587d26a50c0085079d2826d1564fc92b0f30858b5148",
+    "bridge_to_ethereum_transaction_hash": "0x2c40a8bd5079c3aafd92a9151032e6376fed6cebf207a698771206af54752891",
+    "direction": 2,
+    "amount_bridged": 722668939972882349
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x167cf100a60290ad79d5584bf9c30a2b08965ad29949794d4e3a4eb7b0a1b8f0",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 785946401026283974801,
+                "amount_out": 220066378499386880,
+                "event_index": 55
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x3227ef94a89dfa6f9e6f661e7d6f7a9d9ee609f86e89ded71f0d7537977de7b7",
+    "bridge_to_ethereum_transaction_hash": "0x5fb8d045f12c5a89cd4b7755c8980d08fcd649f86f2285e0faabb7518f6cdcb2",
+    "direction": 2,
+    "amount_bridged": 785946401026283974801
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x556c0dd0cbd735b14ab453e7badb8fc43ce7ac8638a5747a882d39ab185702e0",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 516538070035,
+                "amount_out": 166529942933912151,
+                "event_index": 10
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x4a3c9c33f85ee4f1ae978544362802e3e4cbd9a44fe8834763b5c512fc636f67",
+    "bridge_to_ethereum_transaction_hash": "0x4c4deed0ef21c8ca8db5b520e16cdde56096d3dd9ae21d8fe92c52dc5e17017a",
+    "direction": 2,
+    "amount_bridged": 516538070035
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+        "transaction_hash": "0xb070a58e34115c3ae07ccbe3be6434a8adf092bfe549b9204445ec2bb3f62ed5",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 5762299050001401189669,
+                "amount_out": 264646054530456056,
+                "event_index": 53
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x9be179564167cb54aa3e3316a354534c675770d24a78bc457b14eaebf87573ce",
+    "bridge_to_ethereum_transaction_hash": "0x79dd95575949d66a027f94a6d281d45fe20852a4ba08aa49978ab7f2c3f9ec21",
+    "direction": 2,
+    "amount_bridged": 5762299050001401189669
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x19af3529e074f9b9a0934779e22916ebd79b8e64c66a5aba069ec241242189c9",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 310214643368068268871146,
+                "amount_out": 2419442214768032512,
+                "event_index": 57
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xf767db12d765cbfeb2739aa69c6f6bf81d476c9745d30b9de99ef12ebc60004b",
+    "bridge_to_ethereum_transaction_hash": "0xd3516f767f0bc37e7e0ec8ce40a1f04a54e96b14e1d81988b272131d865ad4d4",
+    "direction": 2,
+    "amount_bridged": 310214643368068268871146
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
+        "transaction_hash": "0x9c234a3ed1d74596adcf4e7f42a267efc88043dabdf2bc2d51f2dfa828c36f9a",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 3899892111577519969,
+                "amount_out": 417938713153846999,
+                "event_index": 4
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd2f96d3cb3b6b5b38dda29985ef9eedcb777077256d8a057164c8610c896d548",
+    "bridge_to_ethereum_transaction_hash": "0x32f078b2ed1ce0e02f20d83ec974c67b951c5b179ca0c77c8f1e139400fe32b1",
+    "direction": 2,
+    "amount_bridged": 3899892111577519969
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+        "transaction_hash": "0x604e0f9635eb506f72f633f95422b9b2244936f6854e24a3d94f4eed7d335bba",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 20803874025958485488061,
+                "amount_out": 448527419478335268,
+                "event_index": 94
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0b94d1e0346f9970de81bb007ed7de1488bf6686c6600e7b8ba90efe3848ae30",
+    "bridge_to_ethereum_transaction_hash": "0x1d2480ce5b2a34ab80bb3f309ef6f8a7bf0862f3a7bd06fb31692614fba80821",
+    "direction": 2,
+    "amount_bridged": 20803874025958485488061
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x2aa606dfa9367abee8adf0081333d4a0aa92a2440fb9a2149c87a6dd64c4f6d6",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 524465155136309017892741,
+                "amount_out": 2560688490933763950,
+                "event_index": 42
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x855120a6a864e2bdd076a0403289ed428dc13ee96ca7acfcd2d05bc5ef273271",
+    "bridge_to_ethereum_transaction_hash": "0x47f56c782b8a447ae779aa9a1e45779a5c8e994f6e6d6dfe42351dfe8f71132b",
+    "direction": 2,
+    "amount_bridged": 524465155136309017892741
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+        "transaction_hash": "0xf5d3cd06e1c85a96dade62b6158cd05108c99e9b6373453e017d60ca89867705",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+                "amount_in": 276394271627849000,
+                "amount_out": 5983032693553455105296,
+                "event_index": 4
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xb74d921060e9246d0c7c060b6c8a194a98040e4a1233311e247d1ffc2b49a38e",
+    "bridge_to_ethereum_transaction_hash": "0xf95363d0bbdf8375ea0f065371fa160910b356562194270faed4700913eac4aa",
+    "direction": 1,
+    "amount_bridged": 5983032693553455105296
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x6DC02164d75651758aC74435806093E421b64605",
+        "transaction_hash": "0x847e6aca3ec1b62f33725f127ea184161fc47a3b875f6a69be7485d254468474",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x6DC02164d75651758aC74435806093E421b64605",
+                "amount_in": 1450842502613940000,
+                "amount_out": 7233538684506,
+                "event_index": 46
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0343ccd6de6c4bc30f665f012874f6c2660c03c1dfa80654f4336e1dfea59b5a",
+    "bridge_to_ethereum_transaction_hash": "0xefa653ba1a60be1e75e007fe50e2b7c519708345b3a4262d08be0bd3b949a93c",
+    "direction": 1,
+    "amount_bridged": 7233538684506
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x6DC02164d75651758aC74435806093E421b64605",
+        "transaction_hash": "0xa5f6bc6a53f9f92986941311512317a678ccce3dba96f969ef287a39da38bb05",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x6DC02164d75651758aC74435806093E421b64605",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 6966762694682,
+                "amount_out": 1432794945556417343,
+                "event_index": 92
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0343ccd6de6c4bc30f665f012874f6c2660c03c1dfa80654f4336e1dfea59b5a",
+    "bridge_to_ethereum_transaction_hash": "0xaa84438f4a49c7f369e5a93cbb79378d1b4b236230a406f990e08bbac0aa78a0",
+    "direction": 2,
+    "amount_bridged": 6966762694682
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+        "transaction_hash": "0x36de1e4d26ca5a26f6e7aaf6c93aa81608f9924b77594332470c3deb7b132048",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+                "token_out": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                "amount_in": 5642317868709505229167579,
+                "amount_out": 2061485825,
+                "event_index": 21
+            },
+            {
+                "token_in": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 2061485825,
+                "amount_out": 906422607310883948,
+                "event_index": 24
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xca088d23587953d61da4b9c58402f856de21e412e25fde8f4d069dc8e7a29781",
+    "bridge_to_ethereum_transaction_hash": "0x16e686dc6e591383a352764c00b3a900564aefbce2413245bb8b3d51ffc7e856",
+    "direction": 2,
+    "amount_bridged": 5642317868709505229167579
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x3150e855f62fea41a7c0310cb5a6a2febd063798fd11b79a3912125996989d6f",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 71009597771835653824525,
+                "amount_out": 565136568437199790,
+                "event_index": 78
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xceb227b5cbd2909a6c067bf71f2c94cc237accbc435dfe7daee62de52a468aea",
+    "bridge_to_ethereum_transaction_hash": "0x367ea499472d899cb6d2e9c845447a6afd1bb71fe2996ffa5a466fe7543f6b03",
+    "direction": 2,
+    "amount_bridged": 71009597771835653824525
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x34bf71fd4cff3c6a520a087b313c1be6a9fa458f8e4b1e9bc8375bf8ce2ce72e",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 842120762906428402185,
+                "amount_out": 203282743621310070,
+                "event_index": 71
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xcc19f5c480fe70f481fda0bdd7c445ebe0f0d4d3ef8b7eb721ae8dc8d52c4f09",
+    "bridge_to_ethereum_transaction_hash": "0x1fc2af740a2ad5e207d90d1449a5b080f4bf0aa522b21edc305fdff87ffbd054",
+    "direction": 2,
+    "amount_bridged": 842120762906428402185
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4",
+        "transaction_hash": "0x3d7e7ee8d666cc41dddd4b3115b82d1af67dfd6d47ac27b02e2bf7a8421cb41d",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 952889701016778984409,
+                "amount_out": 478094332059912941,
+                "event_index": 47
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x1e803bacf7cba4e8c57f153585955fa656c069054a4faaf88913a2ef4ff88df8",
+    "bridge_to_ethereum_transaction_hash": "0x314109545cdea02ca3b1dcc43a23a396ca7e15e0a137b8b20ce441ff9f5a02ce",
+    "direction": 2,
+    "amount_bridged": 952889701016778984409
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
+        "transaction_hash": "0x883856d52e2b13beb80775b4533bb719485e33b6035a38ac4fa71dff97f63114",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 23181265830609362249581,
+                "amount_out": 668512444011759963,
+                "event_index": 49
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x1275fb5de05a6fb265d113d6bf8026255e874206e7244d28b01e66ce73e19e87",
+    "bridge_to_ethereum_transaction_hash": "0x9784f54acb7b719219fd11fce93c4af918f7683c09b993a7ddddcbd3bbaebd24",
+    "direction": 2,
+    "amount_bridged": 23181265830609362249581
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+        "transaction_hash": "0x09fc66b3ab23563e9cb4337a3c4f983f8c1a332b73cf6722a78f304236f7576f",
+        "searcher_eoa_address": "0x9996150493Fd4E640219304998ED781a7b744785",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 12918826226688108267279,
+                "amount_out": 1716577878,
+                "event_index": 67
+            },
+            {
+                "token_in": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1716577878,
+                "amount_out": 745069614761638480,
+                "event_index": 70
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x49653fd524d89b79f7699d02055cc46cd2d9115478252dddde3a154b60a60e7f",
+    "bridge_to_ethereum_transaction_hash": "0xf4672898dfb4ffbe10b27b238125f3ca5e81e166ec8ea41c2d3e776802678b24",
+    "direction": 2,
+    "amount_bridged": 12918826226688108267279
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "transaction_hash": "0x3193833f3bea731c2d2318a40c87af4bd2807dfa3d162df82a7f4395fbdbbd46",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 5699372812548738987738,
+                "amount_out": 8291686617590174397,
+                "event_index": 55
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x61848055b629de525a66313b19e4dba4f7b9d23dabf331a3bfef14953136075d",
+    "bridge_to_ethereum_transaction_hash": "0x21b9b64a3081356141d6a246cd8958c693416b0b83cb680517e7b60a2518187b",
+    "direction": 2,
+    "amount_bridged": 5699372812548738987738
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+        "transaction_hash": "0x143b905f7ec4635e8be6a712a7f791e4bba4c8b838864a86cb70b125f712a3b3",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 11979246576657274320679,
+                "amount_out": 600518332977210610,
+                "event_index": 89
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x8036afcfd1f78449b3163638978cf5e5c2107f7b345e14ff93bdc9f93cdfff72",
+    "bridge_to_ethereum_transaction_hash": "0x6262b78995261cf5e7fcbb57d574b703d752f2f8288a163268a4a8bde12db8a0",
+    "direction": 2,
+    "amount_bridged": 11979246576657274320679
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
+        "transaction_hash": "0x8ed91ebb686dbbc1362f741e033070d22f6c3494710a4f10de2fec9b2d4af2e0",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 94452129716160070866826,
+                "amount_out": 1755110711863706349,
+                "event_index": 63
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xcfb20c79b6dd990350f17891856a1c7c5b2e141616dab696dd8c7f10d08363a7",
+    "bridge_to_ethereum_transaction_hash": "0x824f14725846d53e8eaa4b334985e254dd1f0c76fbf599a5d77e564bf6e5c084",
+    "direction": 2,
+    "amount_bridged": 94452129716160070866826
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x7158fff95028279e03a831947963b33cdbd2b51500b91a1545758a7f697242f7",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1426626778899287760985,
+                "amount_out": 322066226912679822,
+                "event_index": 23
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x5b7ece1ea1edfee26cea299eba3c73ba5ec362204322d6088c52b251ca835cf7",
+    "bridge_to_ethereum_transaction_hash": "0x47dda5c011725dc7d436e1afba82475c17b3ece8be487f77605043a600367911",
+    "direction": 2,
+    "amount_bridged": 1426626778899287760985
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x227967b8f98dde447e3b77c91ab7c469242222ef3154e3e5829747710a05a2fe",
+        "searcher_eoa_address": "0x08D9894495320f38561b35B31c9EcE9a4dC5712A",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1441254802398317470746,
+                "amount_out": 325195372755568404,
+                "event_index": 29
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x5b7ece1ea1edfee26cea299eba3c73ba5ec362204322d6088c52b251ca835cf7",
+    "bridge_to_ethereum_transaction_hash": "0xde99ec8da7600a7c09b6f010d7f7a7c0f138c8d63087c3922cc98d158d951cb5",
+    "direction": 2,
+    "amount_bridged": 1441254802398317470746
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0xd4cdd316b51c769e7f4d991fa9c12c86eea99c832e7d5138b807ae77617220e5",
+        "searcher_eoa_address": "0x7e5d96B086B3A1e171CFBbb38d645a3C41a195e4",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "amount_in": 1119058729211360000,
+                "amount_out": 125113621231642346709790,
+                "event_index": 34
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x915905c240ba0c4568cd3d0c0a67a476e0b0677a28e9b7e11f7ec3c724698f13",
+    "bridge_to_ethereum_transaction_hash": "0x93b5c4bb086fa2b4b3e45285653dfc6adbd6bf98a91ee012d2f20da7661f5129",
+    "direction": 1,
+    "amount_bridged": 125113621231642346709790
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x44ca523416db8765466a9a77fd0920e49b90ff4a7ecd12291bf14dc220176f97",
+        "searcher_eoa_address": "0x7e5d96B086B3A1e171CFBbb38d645a3C41a195e4",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 125113621231642346709790,
+                "amount_out": 1143218154775237488,
+                "event_index": 55
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x915905c240ba0c4568cd3d0c0a67a476e0b0677a28e9b7e11f7ec3c724698f13",
+    "bridge_to_ethereum_transaction_hash": "0x93b5c4bb086fa2b4b3e45285653dfc6adbd6bf98a91ee012d2f20da7661f5129",
+    "direction": 2,
+    "amount_bridged": 125113621231642346709790
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0xff5fc3ee13bcd06d1249350bec960ae728ec2a1ea121af799315497475125f6f",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 396792935768,
+                "amount_out": 123016635553776907,
+                "event_index": 60
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x8c92416fca6d5b7de69f2def0e8c6d9a0221db99e607d00660455b1765fcee39",
+    "bridge_to_ethereum_transaction_hash": "0x486949309ed7477b92c0d8852ac52154fb53b59b10e90ebd6de4f2c28e5f25dc",
+    "direction": 2,
+    "amount_bridged": 396792935768
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x9a9dc45520d558e099632a63021ca1dcc7402830e86e812c2f2ae1d1026aa2cb",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 102983969705734546069680,
+                "amount_out": 1376809982472717445,
+                "event_index": 65
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xf7a02c18a6fc433e4051cd926bc944ecfea0dbd6f6a73cbc8927e3253db8aa34",
+    "bridge_to_ethereum_transaction_hash": "0x9315f9d3e19892c8dcd63096d6203b2127e7f42cc142de6bf0ec7395bc8a8666",
+    "direction": 2,
+    "amount_bridged": 102983969705734546069680
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x5e64e515d121e155553b1682f15f97212419642daf771c0ba774e56f4997f62b",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 348460786548,
+                "amount_out": 107233890384215217,
+                "event_index": 77
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x04d374716fb6fdb4987228a44581309560292b105da54ed2f01c4623c96f6e0d",
+    "bridge_to_ethereum_transaction_hash": "0xae2233708f3befdec0eef5690e92dce57a7bee59c2e912fcea4f53f90e9004fd",
+    "direction": 2,
+    "amount_bridged": 348460786548
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x1e2e8e5781d3b9bfc94e217aa2e38401d81f68eb9a24b51894fdceafbab1ae07",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 364700534352568900368580,
+                "amount_out": 1948494054549455200,
+                "event_index": 9
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x1c2a497b4ad475e6edc8139c3c87450575a2b549678ec9f6078e9d82103c4b0d",
+    "bridge_to_ethereum_transaction_hash": "0x3ea4b97b8e1f8d0bbc3a5938402315141c4bf4329e4e0624f9f4639be0e6a773",
+    "direction": 2,
+    "amount_bridged": 364700534352568900368580
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+        "transaction_hash": "0x7c0f87590f608324ed02f0b17e4d76cdd4c3b8ae6cedb2439e2cce82c494cc63",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 4784441228646828737819,
+                "amount_out": 1389539245421545754,
+                "event_index": 98
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xad1f45c3cc9f97538a7c25c6085afa5adf003b8135e5d9729490257e4add63ed",
+    "bridge_to_ethereum_transaction_hash": "0x686b72905c4a4f158793252abcc16d1fdfadcfa5d2c6578024a48aaf4c376c16",
+    "direction": 2,
+    "amount_bridged": 4784441228646828737819
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+        "transaction_hash": "0xc5fc6af9af70e24e6650d9eb4d078d735a4abfe01721b5236a403d7b967886cf",
+        "searcher_eoa_address": "0x7e5d96B086B3A1e171CFBbb38d645a3C41a195e4",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 671611831463918571767,
+                "amount_out": 2165656655,
+                "event_index": 4
+            },
+            {
+                "token_in": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 2165656655,
+                "amount_out": 964239203701640245,
+                "event_index": 7
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x62db6c9b214c636bf026b9c430272bc7e7b0fe8704b6ab7cc6fa88d41c14afa9",
+    "bridge_to_ethereum_transaction_hash": "0x85382d314ef29db19837ed46b3844076164fa852965d5e9f43164e112750da50",
+    "direction": 2,
+    "amount_bridged": 671611831463918571767
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+        "transaction_hash": "0xf32df51a865c45417792d4c82f40c44bfd629050b9b5cc4cc582770a1e7f779b",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 3281854620698674513303,
+                "amount_out": 183841021307470128,
+                "event_index": 26
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x1d4c3ecf531dc89778717b47b108f5362bdfdf4f8151bf6ee8ec036abb644685",
+    "bridge_to_ethereum_transaction_hash": "0x2dcc1a60b50f4d2e7926d5a2fabffafc1fc56283acb851d6420c508aa5f49004",
+    "direction": 2,
+    "amount_bridged": 3281854620698674513303
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+        "transaction_hash": "0x0e4a23a9146eabfa09af7e23158ee51235ebeaaea656fa2c75d94fba9e7de2af",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 55902480628316131292778,
+                "amount_out": 4338825126645791303,
+                "event_index": 57
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x129351bf10c1d1152ea05fedc0c3bfc67c54f8879e7f85951804884a168d2d94",
+    "bridge_to_ethereum_transaction_hash": "0x54770b5b7faf928d4f7abffae540115f63ca476ae05e56fb4d8d5df1334cce79",
+    "direction": 2,
+    "amount_bridged": 55902480628316131292778
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+        "transaction_hash": "0xad454d5362bbab46063cbf8a8c24e79854bc137729e86f2cc06de1df54baa984",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 22505053245535498232856,
+                "amount_out": 2103656252262498540,
+                "event_index": 35
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x5aec4f3ca87505d22dd084659a750820175819f5d87b222f9b0a054a3e831a04",
+    "bridge_to_ethereum_transaction_hash": "0x2e55cc5f752f03ee8e8db35debb99a306f8b13b1f50e32a56a7941616874e349",
+    "direction": 2,
+    "amount_bridged": 22505053245535498232856
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+        "transaction_hash": "0x6203cb3dce8dec5cd992210222fa9b3e67be16beaf580a5395489793920baa8c",
+        "searcher_eoa_address": "0x08D9894495320f38561b35B31c9EcE9a4dC5712A",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 365786551637697645896022,
+                "amount_out": 242080701475774651,
+                "event_index": 68
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x71be978e4565b3ca9e15f4e2c098359e36312ff18c042192475eb1e637aab0cf",
+    "bridge_to_ethereum_transaction_hash": "0xc4c07b421ce78a76fc893897c9f44d8fe8dc89b9be6599b0f5ffe0f5f6ee6497",
+    "direction": 2,
+    "amount_bridged": 365786551637697645896022
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+        "transaction_hash": "0xbb5d2d740caf5bcfb59714fed0f0c6c3f6cee39b69412f3791bea9d5a6ebc847",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 292307715948742825044461,
+                "amount_out": 204894732903608031,
+                "event_index": 49
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xecf5339d9cbb3fb46614d91b7d0ea377830938c5748dd20f343e7bdc4b021b88",
+    "bridge_to_ethereum_transaction_hash": "0x8fa24a11cd71204c1a30760c65dab544d400e7aa6b180aec9d539f8f23f3d1d7",
+    "direction": 2,
+    "amount_bridged": 292307715948742825044461
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0xf06785ac706f0c9346f7490df8d2e5f11b3e500f0eb3d809d0638d4588a1aa93",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 850660371185110870241,
+                "amount_out": 220532165199510063,
+                "event_index": 35
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd08fd32f2eee5ccdabc04309ce3637ae5667aeaa17214d34e2f1258de9fad3d4",
+    "bridge_to_ethereum_transaction_hash": "0x049a7602b550a6563a0928e993d2d00f6cffc0597786c33512b304f3907f6275",
+    "direction": 2,
+    "amount_bridged": 850660371185110870241
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+        "transaction_hash": "0x881bcae24a2aed00da1de67a18e4a8cbe8d5ad696d9a1c717c6931086fce4aab",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 202155210548248129081552,
+                "amount_out": 1371442534253169771,
+                "event_index": 4
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x3293ce6e6cfac7a5c23c3dfeae95b9851661a65622457e821f3de8b51c503f56",
+    "bridge_to_ethereum_transaction_hash": "0x971216f1257e5b5f0b340286d1c6726413578105546f7fffea1895909e0780ee",
+    "direction": 2,
+    "amount_bridged": 202155210548248129081552
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x3402E15b3EA0f1aEC2679c4Be4c6d051ceF93953",
+        "transaction_hash": "0x14b6a60b3acef9f3c294dc6d92361b872119507ce7201edf87cd7966324c4958",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x3402E15b3EA0f1aEC2679c4Be4c6d051ceF93953",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1132957356214475743815248182,
+                "amount_out": 51291758973002777,
+                "event_index": 48
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x6d15fdc79ccaa17b0c60f5ec4fd7b49f061a9dc7b89c540cfcbaee5247334209",
+    "bridge_to_ethereum_transaction_hash": "0x7a73f799dd100ac44c19629d39c81c5c669e0cf3a45cffe4daf2467700c22b55",
+    "direction": 2,
+    "amount_bridged": 1132957356214475743815248182
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0xf1972b806536747f0155c1ba5b6f15b06490a247f4541d8282f16003e6d6cf5f",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 64244865179840752172835,
+                "amount_out": 304740816812022300,
+                "event_index": 3
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x3f01ceb494edd2c4d3eaa97b45d29dbf893ee5da74aa16def17caa5c800c3d7f",
+    "bridge_to_ethereum_transaction_hash": "0xc70e3e11f63b80a6824f9b562eb0a057c704f81aff4e8a7685545b1b0200905a",
+    "direction": 2,
+    "amount_bridged": 64244865179840752172835
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+        "transaction_hash": "0x46b7410fcaac3d62f8c764a8f3b833f41c5cab7af4cc21ab4c8ac1e64b99c0b0",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1949293771187826151631,
+                "amount_out": 109077777259090240,
+                "event_index": 51
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd3b34aef7b5eb48a5fd91abe86b6fb9d75902d8a384d7e1c001ff4dc3293a026",
+    "bridge_to_ethereum_transaction_hash": "0xba830cf884e721b2e0ac9a46b2f8f33c2fc63865e549df19220301de346fdb7f",
+    "direction": 2,
+    "amount_bridged": 1949293771187826151631
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+        "transaction_hash": "0x8eef6a40ca31bdffb1e9ee0842a0089e63a008502b796bf308c0d2099464316a",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 5309482801679322881807,
+                "amount_out": 222688357412210582,
+                "event_index": 30
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x115566055e85d2836929fab62367e2ccab3e4d637aa32e7ca6d990a948619047",
+    "bridge_to_ethereum_transaction_hash": "0xd638cd235357eb0e38042a5556bee01963649111abc7968fafaf55ca7fdc7273",
+    "direction": 2,
+    "amount_bridged": 5309482801679322881807
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+        "transaction_hash": "0x09756e7e158f35b21f9e68f1d4f52ee356440d574273284f9ff819099157724c",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 10484860479613703744210,
+                "amount_out": 235537646516063322,
+                "event_index": 15
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x23450e0af282935b7a6f37c9589cd619e25856df029443ea2a6c3ec3eeae2409",
+    "bridge_to_ethereum_transaction_hash": "0xad1f5dc865affdea900e466fdf48a13d6848abb8d9a9d468e81d7342fe4d49b9",
+    "direction": 2,
+    "amount_bridged": 10484860479613703744210
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x1a9c70e42e342c3bd9af8047c7101deeca403b70545755f6e9fff0d50a8f72dd",
+        "searcher_eoa_address": "0x7e5d96B086B3A1e171CFBbb38d645a3C41a195e4",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "amount_in": 1003582609041860000,
+                "amount_out": 77275009009075975086883,
+                "event_index": 6
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd168f9f5689c58b6bce54b5e3af3003d702c41cbd3ac6b9534cd74a0a0bb4be1",
+    "bridge_to_ethereum_transaction_hash": "0x4d38edc157840518ed74dbaeb62fb65b03091f0c7f28d676ce92e6fe1d3675ae",
+    "direction": 1,
+    "amount_bridged": 77275009009075975086883
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x2783e2e64d3cdadc1b212bc82c8031b487a427f2f9831967d59bed1b212c7440",
+        "searcher_eoa_address": "0x7e5d96B086B3A1e171CFBbb38d645a3C41a195e4",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 77275009009075975086883,
+                "amount_out": 986674682974628728,
+                "event_index": 4
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd168f9f5689c58b6bce54b5e3af3003d702c41cbd3ac6b9534cd74a0a0bb4be1",
+    "bridge_to_ethereum_transaction_hash": "0x4d38edc157840518ed74dbaeb62fb65b03091f0c7f28d676ce92e6fe1d3675ae",
+    "direction": 2,
+    "amount_bridged": 77275009009075975086883
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x459a532767e624bff1400f7f64ab1636f1065a951ce6d5f11eb7c23e8081b66b",
+        "searcher_eoa_address": "0x08D9894495320f38561b35B31c9EcE9a4dC5712A",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 408015986528,
+                "amount_out": 134596701487598494,
+                "event_index": 34
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x64fa537b2908146e6226b034294f6b62471b55657663c0b5a1e654a86cc6de24",
+    "bridge_to_ethereum_transaction_hash": "0x360ed8060506d7f687e60556fb47cda5661dc18715d10f339219f5f3d1c190b8",
+    "direction": 2,
+    "amount_bridged": 408015986528
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+        "transaction_hash": "0x20d88895d2643e70875e8d1c9de10e77c1af203ea01794ddf5a5847b0d24a110",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 21802329511936532933,
+                "amount_out": 179104711700653374,
+                "event_index": 45
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x1b9afd2dce7bbf217db0865b069e33cc67e74d5ae771bd8974052c758d3d2e17",
+    "bridge_to_ethereum_transaction_hash": "0xf47958ea45359354c4f0b978cf95b239eb6c00efac4eceac0eb7413f400daab5",
+    "direction": 2,
+    "amount_bridged": 21802329511936532933
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+        "transaction_hash": "0x1bcf3b3923710e3992604862715715cb47b6e6e07f0593dd901ed3b4c1b56a89",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 27543943887,
+                "amount_out": 10023935823026029,
+                "event_index": 5
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0776cbf73d0a8d85a5310bb3e787287094b5cd84179c100e3bbe6393a92e163f",
+    "bridge_to_ethereum_transaction_hash": "0x2ba52b8394e699f52e4f38991ba021df93baa7c52b1151b73302180d292ee13e",
+    "direction": 2,
+    "amount_bridged": 27543943887
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+        "transaction_hash": "0x6d49d3792dcaafdb1c5c4fa690b8817540bcad480880f17231c3aac18f282af0",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 5664760845365627507,
+                "amount_out": 238097185469179951,
+                "event_index": 10
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x82ec7c98d00943f1f8edf74b3fb6ee3e1475788d319f1976fe2c8d06e15bc70e",
+    "bridge_to_ethereum_transaction_hash": "0x97584e96eeb65b2b75a554b49fae56d846c7f5f5efade9801ede84e7a3cd5684",
+    "direction": 2,
+    "amount_bridged": 5664760845365627507
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+        "transaction_hash": "0x72d24efddf2def7f33399b2755dbf37966c399a13b675813c869aaf7b7339d3f",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+                "token_out": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                "amount_in": 1211383634394442221936,
+                "amount_out": 1405534778,
+                "event_index": 5
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x3a6c91994b6d2297e7bcd595234e6cf62e4b653e6a7f53924cc1e80ddd2e6f06",
+    "bridge_to_ethereum_transaction_hash": "0xc0e502926b78638c41295ad17d2f22e37e1616d8dde1a5871acf29611326d31e",
+    "direction": 2,
+    "amount_bridged": 1211383634394442221936
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+        "transaction_hash": "0xca910c0282d42c1fe619cf012f8509033257d534541d9608cff5212b691cd545",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 113418876501999127285568,
+                "amount_out": 34042116310254648,
+                "event_index": 80
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x7ab4d8610eb82aeba3659071c2ead6341b4789c64d6359272817be3b168ca044",
+    "bridge_to_ethereum_transaction_hash": "0x0c76df2b4609d593e7f481f983bd3109dd74e3fc9c9fa4601f911af0032c7a91",
+    "direction": 2,
+    "amount_bridged": 113418876501999127285568
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
+        "transaction_hash": "0x04771f7c4361cc456c8abc8d71b9c9d2cab27511f7db45163ac9ffb518344669",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 86297893742214557152117,
+                "amount_out": 355582002741238929,
+                "event_index": 5
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x178ab7510d021545808113c9ea7c60919724ae0905d89f964c53a297e664ccec",
+    "bridge_to_ethereum_transaction_hash": "0xe4a3eba0ce4a8991321b4f523e63454aaecf493733a8ab8c54aa2be7e5d2dc0f",
+    "direction": 2,
+    "amount_bridged": 86297893742214557152117
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x205eD31C867bF715E4182137Af95AFE9177Cd8E7",
+        "transaction_hash": "0xf3c1b86832454ceb5edc50c425bf98ab2d1b845107587aa628c234c236463f8c",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x205eD31C867bF715E4182137Af95AFE9177Cd8E7",
+                "token_out": "0xb31eF9e52d94D4120eb44Fe1ddfDe5B4654A6515",
+                "amount_in": 170692946558111349044737,
+                "amount_out": 230211558455452070527491,
+                "event_index": 44
+            },
+            {
+                "token_in": "0xb31eF9e52d94D4120eb44Fe1ddfDe5B4654A6515",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 230211558455452070527491,
+                "amount_out": 363824772494502860,
+                "event_index": 47
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xd16d3423102cec24e52d5fd3280afe2128dc20ebe283fae241bec34140b1ad73",
+    "bridge_to_ethereum_transaction_hash": "0x5c346c08e0bfef62b70955f85e7241928655ef41e056f3d07fe2213370d27ecf",
+    "direction": 2,
+    "amount_bridged": 170692946558111349044737
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+        "transaction_hash": "0xca0d0cf2fa65a559b44fbea13b5c19df6543b72510f7cf22542d46d3c6f37cdb",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 7557476394302889250152722,
+                "amount_out": 666021187179576499,
+                "event_index": 32
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x8e9ae18b05c165a2c2671a324c44913f0fc8210a3e9f2acd4e9fad51b341dbb5",
+    "bridge_to_ethereum_transaction_hash": "0xf4b100b76b04249bbc8f07cec9f2e734bef38dd2fb860289e17d6230a03b45d9",
+    "direction": 2,
+    "amount_bridged": 7557476394302889250152722
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+        "transaction_hash": "0x30e5c53faf27ab20669112b5005e7a20842b1eb18018b9133d56018a3c352bc5",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 3912384045788995549027,
+                "amount_out": 347457397532016521,
+                "event_index": 55
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xf79b79354ccd4fb213fde70ca54e10761633cbae0a2de40753054946a7a314dc",
+    "bridge_to_ethereum_transaction_hash": "0x2d44b142b1f6797bbd3a6fa009e15d5a8de1bbd5e83caa144ebfd75ef2732b08",
+    "direction": 2,
+    "amount_bridged": 3912384045788995549027
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+        "transaction_hash": "0x4c0bf3491ce2bc3172a75510e24bac8205bc19336b6ea6b95e1fe8542851aa69",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 27462115148620582405280,
+                "amount_out": 521086450763697947,
+                "event_index": 5
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xaaedb8d38b2d0ec0600cdae35fa004098e8dd5e86653f32b0222195fa28ed25f",
+    "bridge_to_ethereum_transaction_hash": "0xddc2444c3ca1fd924f7e14cdab4358227d442bbd9918854efa435750364d199f",
+    "direction": 2,
+    "amount_bridged": 27462115148620582405280
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+        "transaction_hash": "0x5983ec6e65da965eafac028fc8b42c1ce57ae69086aa76e05ef6c396927bb549",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 24856454879222605356872,
+                "amount_out": 439353383970211415,
+                "event_index": 50
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xaaedb8d38b2d0ec0600cdae35fa004098e8dd5e86653f32b0222195fa28ed25f",
+    "bridge_to_ethereum_transaction_hash": "0x4c6de10c775f21574b272fe97e1c5bacd69e27c9be8250c45d350d4973721998",
+    "direction": 2,
+    "amount_bridged": 24856454879222605356872
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0xaad16a5d410593ee17973acc43a689b0879178cdc4b4d4c3a9bb2b030ced0a50",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 44898642351852163660522,
+                "amount_out": 432077491620003675,
+                "event_index": 86
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x85fea8a6b0830a5342967e879c04edc58d04b80dafd53c9c7de3c91e35bf47ae",
+    "bridge_to_ethereum_transaction_hash": "0x6aa013259c6022a3215cc583a98c6ae43e256e36d71c1ffbfe0c0dce44dd0986",
+    "direction": 2,
+    "amount_bridged": 44898642351852163660522
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+        "transaction_hash": "0xd562a539eb339e3dd39fbf83950245231a43369ee95e833f51cf79c9a50a53bd",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+                "amount_in": 1000000000000000000,
+                "amount_out": 12179973273706094669628,
+                "event_index": 31
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xdd5e19c61e6f095e17b4692e7508f507d3e0b2248d493b26f2d561c88ae6639d",
+    "bridge_to_ethereum_transaction_hash": "0x889bb843e329242d1d77182f2b301aec39c01ed1b0fbc2fbd479e0a24df30472",
+    "direction": 1,
+    "amount_bridged": 12179973273706094669628
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0xdf028a6d764ca898b0ee767d31e5af90b3ddf21429f827445c485297bdb3a768",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 539510627085,
+                "amount_out": 152923489318475342,
+                "event_index": 24
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x4730d1cc1b3a50f41961c2232b94377fcb305b783fd33f9ae3702f9d3613937f",
+    "bridge_to_ethereum_transaction_hash": "0xb98dc2435b0070bd173079a5ac5ab3d1db3d350f6ac12ec5ea105e51fcc860e0",
+    "direction": 2,
+    "amount_bridged": 539510627085
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x6d0a64417c534f66167361d79182d87ef50febaf43cb3b5ea151a28b4959ffae",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1520884178848790875730,
+                "amount_out": 383346232996123016,
+                "event_index": 22
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x05538c4507f7521696feeb6d03dd9e5be0f89120e00478a8d0e103e8663234f4",
+    "bridge_to_ethereum_transaction_hash": "0x34e606d5bd091a08ba1e3a15d88c061695baedc1615caf95f8a016d8c03eb6bb",
+    "direction": 2,
+    "amount_bridged": 1520884178848790875730
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+        "transaction_hash": "0x1a647d142bcaa3da8953370e059e94795173317f202c3957ae897c4618dbeac5",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 67484939658109914468516,
+                "amount_out": 3296704384301806615,
+                "event_index": 59
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xf22183eb998f8aa5c1ad955822eb068b4b4d44bd03174d0a72391a26140c3624",
+    "bridge_to_ethereum_transaction_hash": "0x9b42fa2f4cc3f55c26409ad612717d32970736e11d0169417e595ed311b31dbf",
+    "direction": 2,
+    "amount_bridged": 67484939658109914468516
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x831ba6552e959513712d4ce64d0c9027b9e399da6e15ea8318a8d23cb5c35dff",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 644754881131,
+                "amount_out": 181049673173899933,
+                "event_index": 105
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xf4dfd36dc05a8a332b15ffbf8fdae775e7836267bf54f363be0dc66cd48d5f5d",
+    "bridge_to_ethereum_transaction_hash": "0xf35aaaf1490205cd42f86f779e1598ffcf2c8f74fefe81a6f7dae233cf33420c",
+    "direction": 2,
+    "amount_bridged": 644754881131
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+        "transaction_hash": "0x6fc47842ec3ca11cd388ae73b1187d2d6edb3c3febea3ecd9bbb64534b061db1",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 9170796974694385906651703345,
+                "amount_out": 595163366053596026,
+                "event_index": 133
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x3e6fd0c240ebf0acd10b5c53faac4c7fcabb97b019c8cec82d05ab90dcb0cfaa",
+    "bridge_to_ethereum_transaction_hash": "0x4e3a4bad60dec959a1830edd846ba4c22481ccbd6051e72f20feef64fa10dd33",
+    "direction": 2,
+    "amount_bridged": 9170796974694385906651703345
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x457e4c5e3806e5c06f846870be28716357dae8c9fd07041a713a9102bb2ada4f",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 188674730585252617911353,
+                "amount_out": 635127556831120821,
+                "event_index": 30
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x197b66ef4cc5b088440ab169b56408a65a8f473b5a8ea99aaea9e13088af509d",
+    "bridge_to_ethereum_transaction_hash": "0x0e7da4fd175dd86ce4e7a5aab7b935ab13094f871695da48e1587995fa7f7664",
+    "direction": 2,
+    "amount_bridged": 188674730585252617911353
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0xf736d0395d6cb07ecc17ba4f5a84a0092d3204c9142c612b25a97af610705aa5",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 15626215707843563127700,
+                "amount_out": 729115537446894903,
+                "event_index": 108
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x021ee411646c60a71bc8cee31b82b753453303973d54ebd4116bb2ff6fb5cd25",
+    "bridge_to_ethereum_transaction_hash": "0x75c71b65da7540dc6ff19ffe7a0c15d0aba3d3b65381d6c9d0e3e6b11ee36080",
+    "direction": 2,
+    "amount_bridged": 15626215707843563127700
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0x1a9f8f51ff848083c4fd1ca3f8fc5e836f7e8f286e255d237c2484df5009bc4c",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 20767851804557175140011,
+                "amount_out": 946815013098066761,
+                "event_index": 169
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x546a86e017a1c5975cdf033d42016a72fa66bd642725b45747e262e0f665ccc9",
+    "bridge_to_ethereum_transaction_hash": "0x5cf84e548045cd8e8fb15b23b7a615cfdc8d891578341a4bcddc6efc0d4d8f41",
+    "direction": 2,
+    "amount_bridged": 20767851804557175140011
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0xd7b3db60b4e2ec4a949b3b0f47713b99d6361ac28b408214104e5eaa8dfa5252",
+        "searcher_eoa_address": "0x2a0489d7b60097e6fAc5C2b91ec946D39562A12c",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 21775623596505076985004,
+                "amount_out": 866012769965331028,
+                "event_index": 48
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x4b348d65eb20df7baa9f9a495559cde77a50e8c8f2ca387d8ca09a7ecee5d271",
+    "bridge_to_ethereum_transaction_hash": "0x242f72bff3bca4493dadea4b39763b33bade9b03e9bec86e30fc11d6bd1d9409",
+    "direction": 2,
+    "amount_bridged": 21775623596505076985004
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+        "transaction_hash": "0xb4f81f0659895cdda3c921421d9b745c031062e8f19ecd8c78570c2813285b6f",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 274909723788144277252789,
+                "amount_out": 84740376062551073,
+                "event_index": 30
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xa33d71d69cd65f2778bea47474fe87b2affe5598062271f4c9634a07596d067d",
+    "bridge_to_ethereum_transaction_hash": "0xfd3c0b01ead219ee59b46418b1bf22cfdf06e1960be9d9a0bafe5debf0a9dfac",
+    "direction": 2,
+    "amount_bridged": 274909723788144277252789
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+        "transaction_hash": "0x6926b7108f20361289109ffa3962f44094922b8f45d0631d4f541ccb5ececbcd",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 131639695065502632883799,
+                "amount_out": 220580439032487305,
+                "event_index": 69
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x495898b12d2ddc541e480ba6d63c9c00f0c2e43be7933f86b14592f4e4498b0e",
+    "bridge_to_ethereum_transaction_hash": "0x5961bb8572851386578a92ac65ca8028bafa45966e9c059afd3f76de8eb5c529",
+    "direction": 2,
+    "amount_bridged": 131639695065502632883799
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0x2fe44a8c73e8eb9acd642cb98e5ed8180f6f82506679e2a02e5ec090c1f09c1b",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 23502003078735592954536,
+                "amount_out": 853228731504048904,
+                "event_index": 36
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x373ba7bf7131f188cde687586014c1e1a1ae8f7adc22b006c4edb0a57b364775",
+    "bridge_to_ethereum_transaction_hash": "0xabfc1ccfacc8a6f1a8c14f50e302290a68ece4f88d36a9e029956cf0a6995b54",
+    "direction": 2,
+    "amount_bridged": 23502003078735592954536
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+        "transaction_hash": "0x6d0ce81e47d9457b992b1a6c60714a249dbb3868f1186144933f299d8ced1d14",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 8556651531774778921245728397,
+                "amount_out": 553503041842518355,
+                "event_index": 48
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x05d62fba955c5ba016639bb1934e35867b94c2ddd3c20beb745b4642ace35e20",
+    "bridge_to_ethereum_transaction_hash": "0x1a8a0bb36d545938264bc32cb6d2f20c78d3bc1bb884bb102bcfd16da3c720f5",
+    "direction": 2,
+    "amount_bridged": 8556651531774778921245728397
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x7bd2b12d4ce60de33f96e15b200809da68f11367e96034f46441afaf6076d558",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 95520454262160730506115,
+                "amount_out": 312528613937082730,
+                "event_index": 13
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x788a8e74fff6c0d63236a2f7b1775c108483c48fbe0bac100c35b3f27776e0fb",
+    "bridge_to_ethereum_transaction_hash": "0xc31e20138eb0f011aff1940145a863d73aa7a34a73d784fd2419157dd6f7cfae",
+    "direction": 2,
+    "amount_bridged": 95520454262160730506115
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+        "transaction_hash": "0xbc260a4b824c055a4abe7cc9418ed17a3a6f9745f32b36e2552db862c8448930",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 156543986700050731302026,
+                "amount_out": 265020889606014553,
+                "event_index": 52
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x874134dd3e14fec9a5ae318e555e22b1ad888e3ca37aac971ac96bf5d0457527",
+    "bridge_to_ethereum_transaction_hash": "0xd39e44b1d125495f341c818a8cc3afcbce4d7bc53235ed4556742e7d5de41704",
+    "direction": 2,
+    "amount_bridged": 156543986700050731302026
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
+        "transaction_hash": "0xc09aaa3f7998bec43bc4fd8593c501ae0be76b2fb6f19b7f12acc60483122ace",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 9747061518456376567356,
+                "amount_out": 225354103685271579,
+                "event_index": 73
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x3cb0203322aec9425d26b0551b0951e7501b1af26d980800dfb88067f7b8f7e6",
+    "bridge_to_ethereum_transaction_hash": "0x1a9a30813a4c608b257b1eec375807272f6b94e9ddfb35b1d216dd6086ff78ae",
+    "direction": 2,
+    "amount_bridged": 9747061518456376567356
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+        "transaction_hash": "0xb0e924137de92629c068edaf947eb788fa09e651a300ec1ba604ada5865e4ecf",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xB17548c7B510427baAc4e267BEa62e800b247173",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 14168307580505855176428,
+                "amount_out": 1352781413536904090,
+                "event_index": 96
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x6939313d5ebf3be1ebb8b5a09af193b5ba8c0322fa5f0468741435da17b73850",
+    "bridge_to_ethereum_transaction_hash": "0x87e352170ec65c476e26f7b51016a26d482b0ca32d8b64f55aa69fa17c2faf46",
+    "direction": 2,
+    "amount_bridged": 14168307580505855176428
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+        "transaction_hash": "0x04073e51f32428f242106c5105c6b91dec4d9ae6222f17540842eb11111e2be4",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 14156728178200027826542,
+                "amount_out": 418737050186470806,
+                "event_index": 50
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xbbd4d25529696e7aaf8e4fa46393188ba0211e5f3e72b469d6ace1129ef33d41",
+    "bridge_to_ethereum_transaction_hash": "0x5084e9fb1f2e0cec148cd5802ddfbce0ed871e96659b46ed8a667cbf495197b6",
+    "direction": 2,
+    "amount_bridged": 14156728178200027826542
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0xd3221b71d47298886cb19f5a7fd01dd3ac95ac368d0356b543fa055999f3f9f3",
+        "searcher_eoa_address": "0x38d07d33B3F10C4C807C154EfA320536EBC8C505",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 171464606695403545353094,
+                "amount_out": 550990557073982995,
+                "event_index": 21
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x5b245025456af78cd9af517e18551b51c634a72947e814daf3ac6678d3babb59",
+    "bridge_to_ethereum_transaction_hash": "0xf6c584f024f0affef6aadbb56c26b3211353ab3fa3430c4a0375b9f861bcb1fd",
+    "direction": 2,
+    "amount_bridged": 171464606695403545353094
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+        "transaction_hash": "0x6d63777813ceb26b23655d3802b721f2b705de0638ba7bcfd5f295c872bbe7f3",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 100538173479113583598937,
+                "amount_out": 572463005360743420,
+                "event_index": 61
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x2027f320c805c4c01f24a07d403beb2abe759281d9963b2c58d8c2737d549771",
+    "bridge_to_ethereum_transaction_hash": "0x186391d610f02685dba94bdc6b2a6aa447e85c83dbb2e78787634282c8ef9f0a",
+    "direction": 2,
+    "amount_bridged": 100538173479113583598937
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+        "transaction_hash": "0xbe5d3038dd432545e782914fa72a06a207dcd0d0e19773ef3fe76644ed213791",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 115324942751231907002070,
+                "amount_out": 281611159075845646,
+                "event_index": 12
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x2dc60a635f334e5841425fd1396e2ae1188aa6561bf7c06a7c24b318a5d7e39e",
+    "bridge_to_ethereum_transaction_hash": "0x91d35ed3218e489e88d1ed1effe4bbf1dad9f62bdce0f65e6380976c79938e0c",
+    "direction": 2,
+    "amount_bridged": 115324942751231907002070
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+        "transaction_hash": "0xba0ef0bff81ab4aef870b0607bdfa7b869090b76781806889c80e0def63faccd",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 32162511306663945655294,
+                "amount_out": 377719449444328972,
+                "event_index": 28
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xac4121a57e8142ee45f899bd5e0cd09afaccddd876996af0e4ff52c9f6142034",
+    "bridge_to_ethereum_transaction_hash": "0xda6cb4d5d9b29442955aa393cd6e8ac1d1fb68ef665f4a1af19ba077ac7f6816",
+    "direction": 2,
+    "amount_bridged": 32162511306663945655294
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+        "transaction_hash": "0x39bdb9bf36208e1fa5b015a1e266b9cb9d9db4c1c3e9db95515fb044eb884606",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 16555466271175270075360,
+                "amount_out": 381091701838600073,
+                "event_index": 36
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0493929057b013d0b1d4d6d531b02a9b1782aacb5a7183d3a0869a44a56168b9",
+    "bridge_to_ethereum_transaction_hash": "0x9a4a36dccbdc699bae84076ca9c19660598b9be960ea24b66343495b23c17b5e",
+    "direction": 2,
+    "amount_bridged": 16555466271175270075360
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0xd3b70dc0b275842bc984e7cdc6a0a045db7465a6a110227d38a4d59090ed1eb9",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 36602197812239528616096,
+                "amount_out": 777583395480953079,
+                "event_index": 11
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x64085191b310cd1f43a14650f2c756e2874385ffe2a0660adc097bdc27d89176",
+    "bridge_to_ethereum_transaction_hash": "0xc48945735dcfe3b0288060d544e14d970c5fcc2216686cfdd5d7ffeba35c9964",
+    "direction": 2,
+    "amount_bridged": 36602197812239528616096
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+        "transaction_hash": "0xe47288d239228ccffef3ad9f80e5e3c18ab5890cbce83da9f7006dddf83e65bc",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 4022584400103812339174,
+                "amount_out": 231301617453498307,
+                "event_index": 25
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xec974da5a55b26ba251dc6294341987b1c9c6ddcb2de2f250631fbe0997c46c5",
+    "bridge_to_ethereum_transaction_hash": "0x26aefca3aa061c019d1744aa1f26385b737b61aa43ae13fd2d935ed7a66ef852",
+    "direction": 2,
+    "amount_bridged": 4022584400103812339174
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+        "transaction_hash": "0xf35bc6ad55f7c2d494546a59bee3489474f2442600727d4840101a4f2016ad14",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 425988930426608907522808,
+                "amount_out": 109906231401304040,
+                "event_index": 40
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x85a8c06a0b020008bb576b175fcc7f95e74c5a654a25346f08b131289768ae4b",
+    "bridge_to_ethereum_transaction_hash": "0xcd33cf12e07ee4f567b8190ec307a221a0bb1fb2b4c632bcf78ad7877263aad9",
+    "direction": 2,
+    "amount_bridged": 425988930426608907522808
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0xe99d8a4d086d42641442207a44d426cd9e1947f555a8800859e2e5608f93e1e9",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 902201969296552807375,
+                "amount_out": 322072133006845633,
+                "event_index": 78
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xc2a5031b79cbea0f612342b9fba4563be8af0a0f9bb5bb7a5bfa84586431ca32",
+    "bridge_to_ethereum_transaction_hash": "0x542ee5a1768b91d0d81b099bb27c13f506d1abf1e162f045aaf2bf114d6f6c49",
+    "direction": 2,
+    "amount_bridged": 902201969296552807375
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x2849acd88a6eff3fbc95668c6304795e85b78537df9fbd8434d220ee0cd7bd9e",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 703852971625,
+                "amount_out": 212519241329471858,
+                "event_index": 28
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x48aba94ee3fac46b7ddbf4139644d1df284bf0c832b0bf8f7bd0a0aa7a5b359c",
+    "bridge_to_ethereum_transaction_hash": "0xf38b558bb289802391681507076f1700738833d94e9113a3083452ff9f74408b",
+    "direction": 2,
+    "amount_bridged": 703852971625
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+        "transaction_hash": "0x57d0585797ff13cadd1486fa342fe82c625d3f7e197674df5aa0dded39fdbd9d",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 715149525790,
+                "amount_out": 212999539484732571,
+                "event_index": 12
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x48aba94ee3fac46b7ddbf4139644d1df284bf0c832b0bf8f7bd0a0aa7a5b359c",
+    "bridge_to_ethereum_transaction_hash": "0xff8d3852191fe7180413244d91848696470466c9f66bd4a98d9c1549ee0db9bb",
+    "direction": 2,
+    "amount_bridged": 715149525790
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "transaction_hash": "0x15c1dbad330bfbfa307835d788bfcf7eaa37faafd52ed9e952644383a2c01b6b",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 814395031427498193654,
+                "amount_out": 266874201588620433,
+                "event_index": 54
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0c948d717df9034d63af6ff2a5d4cb6324283227a79f54afd44fe551c38d7a0c",
+    "bridge_to_ethereum_transaction_hash": "0xcb28f30a3a1ebf253b751e9df369e3170c1bd9421a941beee43de928f3d92a26",
+    "direction": 2,
+    "amount_bridged": 814395031427498193654
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+        "transaction_hash": "0x4a3bea858ddcfc5b2d595e0028e4f40acb85fa2ae7a726fed3cc175c9283e57f",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 39563723998314378613,
+                "amount_out": 527175640157301544,
+                "event_index": 34
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x0cf8a06603ea9204aeb0151adf07514e47b28276ebfa27d21e2087539ccfd5f2",
+    "bridge_to_ethereum_transaction_hash": "0xe50272c9e2498dd1262a36a837cca81e3e64b93852246087a11135d706460c02",
+    "direction": 2,
+    "amount_bridged": 39563723998314378613
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+        "transaction_hash": "0x4261601eeb7f5a2476ca94831051812916da8a3fc32b98f2a8170d85e1842a7a",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 100728151727573349757458,
+                "amount_out": 428191915150472042,
+                "event_index": 60
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x6fe0b36ec440990b75d51a7e3aba8cfb941229d3f7efe9f0139f62d6fe4ff790",
+    "bridge_to_ethereum_transaction_hash": "0x04698eb51ccc56d940448b655a2aa7fbf8b1bab9eb8512ad5d79f03954bc9530",
+    "direction": 2,
+    "amount_bridged": 100728151727573349757458
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+        "transaction_hash": "0x3d57d17f0de4eab678a4a5ac6cc366444fab57a4a7fbddfc78a4d5546786af34",
+        "searcher_eoa_address": "0x08D9894495320f38561b35B31c9EcE9a4dC5712A",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 80648865247511185839973,
+                "amount_out": 37023997994082111,
+                "event_index": 33
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x072d6b6db11bfdd60cce503658be42754926a948496deafdd7e05528809387df",
+    "bridge_to_ethereum_transaction_hash": "0x3e11f14c63d93f2091d60f11917393d2fb0f5305df8b550052f5f51cdeb553c8",
+    "direction": 2,
+    "amount_bridged": 80648865247511185839973
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+        "transaction_hash": "0x3aa86f364fe707b4e28a83b803c0bac06abb912cfeb65e86c6110ed4134e51cd",
+        "searcher_eoa_address": "0xDCF092459F2c558B1873C5C245f07F25b62ADa69",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 201415776421661700078457,
+                "amount_out": 66502676372829921,
+                "event_index": 19
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x072d6b6db11bfdd60cce503658be42754926a948496deafdd7e05528809387df",
+    "bridge_to_ethereum_transaction_hash": "0x0914c0ed0ac8f8e08e9d21dcf2a5ec92896c0e52d4fb339748d8594f5001c912",
+    "direction": 2,
+    "amount_bridged": 201415776421661700078457
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xdc8aF07A7861bedD104B8093Ae3e9376fc8596D2",
+        "transaction_hash": "0x1d9497c2e8462ef138709f76f5edda328e1783241769a31bed19e0d9b86dbbb0",
+        "searcher_eoa_address": "0x08D9894495320f38561b35B31c9EcE9a4dC5712A",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xdc8aF07A7861bedD104B8093Ae3e9376fc8596D2",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 769240506059313250090,
+                "amount_out": 184473807433226504,
+                "event_index": 47
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x6415c684e307f3df31862136e9f0ae242c223241613ef9836b9f6833623ac009",
+    "bridge_to_ethereum_transaction_hash": "0xbed261c25aa0b1a06c34c2346005aeab71f3ad82cad2eb1a6232b68243f1913f",
+    "direction": 2,
+    "amount_bridged": 769240506059313250090
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+        "transaction_hash": "0xef60344374fdb95b1982af8ea59a5bcd64eaa0c464272cf24067e40633bb5389",
+        "searcher_eoa_address": "0x08D9894495320f38561b35B31c9EcE9a4dC5712A",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 107913929129898763957192,
+                "amount_out": 43503387333384495,
+                "event_index": 61
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x4e9226b7eb6fc133bf734345f0fbc872a21191f135bb656ce93a8302603be179",
+    "bridge_to_ethereum_transaction_hash": "0x13186676ce96d976bf8a23cf45af3137b1ec2399ddb12f8101288d95b739e3ab",
+    "direction": 2,
+    "amount_bridged": 107913929129898763957192
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+        "transaction_hash": "0x83c2593fb03ae2590b5349339c5bc44519d854df49e121a6bda822a473474ac8",
+        "searcher_eoa_address": "0x3E97184d6cA0F505033aE11c0aB6a3ee1b43C9bb",
+        "searcher_contract_address": "0x6EeeAFa18f7e764234AfFBe2A29c24Be76184F46",
+        "swaps": [
+            {
+                "token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "token_out": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+                "amount_in": 528196767533660000,
+                "amount_out": 18604239662884515129712,
+                "event_index": 80
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x14bcd0f29b58662d2c5ef6e368640fb2bc229ecc949d73de1c656602de5d6151",
+    "bridge_to_ethereum_transaction_hash": "0x54d600be3a082e86064718e395eae448c7dd4bc04c8f47c13db1c25d6bb7d7e1",
+    "direction": 1,
+    "amount_bridged": 18604239662884515129712
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+        "transaction_hash": "0xc6c040eeeef6c5cb4a11191ef31db5aad8b661cef9f20da3d841606239ae21ed",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xE7f58A92476056627f9FdB92286778aBd83b285F",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 16331707688781140709063,
+                "amount_out": 468955219643404764,
+                "event_index": 57
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x926cd922e032c187d33550e9bd9397c5e92991fa3492054ece52e0c2df9a2c81",
+    "bridge_to_ethereum_transaction_hash": "0x1e5b9bf78912ffdf2871421cf9da23e691b33bea20bf266cecb266172209e6ed",
+    "direction": 2,
+    "amount_bridged": 16331707688781140709063
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+        "transaction_hash": "0x1f4b909279a3f6dfd4cfe43e0d97eee6e5edb6ad1101e66db669ad38633a459d",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 77235562820960637311945,
+                "amount_out": 2910499747171077459,
+                "event_index": 49
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xde90b9533803b7586c64eb430e5e8eadc91ec44d9026774a383805ae1e355a61",
+    "bridge_to_ethereum_transaction_hash": "0x2b4506d5bb71fc10a538904e4cc6c008faa7c683529c52f07277ac14d474b304",
+    "direction": 2,
+    "amount_bridged": 77235562820960637311945
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+        "transaction_hash": "0xd4e516dcb15fa1fcbf73379fe6ec22ac015c1630d7df1f815fc7ed51c4d58b41",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 37133762884789599547408,
+                "amount_out": 460653806660941084,
+                "event_index": 43
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x91e52bca347ab5a523b9e6e89bf996ce55285cd38178c263c1717b78c49be14c",
+    "bridge_to_ethereum_transaction_hash": "0x2aabb32685cae353cc3662dc881c24efb7d748fbe0055ae21a7755147fed8fbb",
+    "direction": 2,
+    "amount_bridged": 37133762884789599547408
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+        "transaction_hash": "0xbbbcdc2b15ba7cedad9e0239e42f34917f57fab04293afe1da1817c1e18a4508",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 465981546827731606442088,
+                "amount_out": 502829978356290084,
+                "event_index": 76
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xccb9b3520dab2d8bff1f72f4869146ff3b666fbe9cb9cb87c35b50968072002f",
+    "bridge_to_ethereum_transaction_hash": "0xf9d3625d74bc189e637fa4065fd2a0d33727fbeed22bc1941134f9a1c5cb4044",
+    "direction": 2,
+    "amount_bridged": 465981546827731606442088
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+        "transaction_hash": "0x529107e85ce93a8d0bc6275aba9ffc9bc1201f01f10237d9413f7d5ccc39461e",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 517426957615848071800149,
+                "amount_out": 627146724326650057,
+                "event_index": 47
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x072bb324fdc9f595f537ea53cad2f8e5f363557b0f5a5f19d3ca71af9b05e751",
+    "bridge_to_ethereum_transaction_hash": "0x28e043c13e43addb449a0d8046c898e07e3ff42b92cc4014c2e6eb6853fac353",
+    "direction": 2,
+    "amount_bridged": 517426957615848071800149
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x6eb4e51a742e1e23af1e320f71a77b3f3b7bdf0dfeb9ed8ff84fd3fca5f3fa1c",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 114215466509151128663075,
+                "amount_out": 4684776934736642045,
+                "event_index": 75
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x503d3d5213b65bc26eddd6c56e9f71743b0235624cc61ca77f5d1f0b754896fb",
+    "bridge_to_ethereum_transaction_hash": "0xfc5f87d7c9038111bdc42b8ed329226ec565bdbe6d7e3fc21687ec57edf421c8",
+    "direction": 2,
+    "amount_bridged": 114215466509151128663075
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+        "transaction_hash": "0x4fd0cd87b713c6164e4da45836e732b94c1b498c5388d2359a2f583c680b1a80",
+        "searcher_eoa_address": "0x65D5e6D30B00c3Dbf49B426afc81B8bB7dbaE8AB",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 1104354236387865590443734,
+                "amount_out": 381129294637551631,
+                "event_index": 22
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xfb40195f370a388e4f3ea717e7585ce9324a8f5ce1a8969d1c03844b93138d00",
+    "bridge_to_ethereum_transaction_hash": "0x9947d880dfa2406fdf1aa174403e59cc2a8e6e575f5fb8439fc78d0ed0dca262",
+    "direction": 2,
+    "amount_bridged": 1104354236387865590443734
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+        "transaction_hash": "0x14c0e08385edeee028dd1d547b68a29dbf27727d6dacea186371cb6b1510851b",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 2173251911902115537704,
+                "amount_out": 1412414978115964236,
+                "event_index": 25
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xaae3c78ad59da713c738a77ff69d2ded4121de7fbf1fae164dbef8f03fc9a35e",
+    "bridge_to_ethereum_transaction_hash": "0x5148f9ebbd724219e82cbe26cbda98b133c2dfdfc4eedb1541b36c09e1629e43",
+    "direction": 2,
+    "amount_bridged": 2173251911902115537704
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
+        "transaction_hash": "0x590dcc2a087715afa19e293a39e997b210a87cc42d0e3111d1941a93ef0d75dc",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 59934029069285975156551344245,
+                "amount_out": 488754976646160445,
+                "event_index": 39
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x350c3ec84f96bc664bf822805c2afc9b65f794ec02bf06ca57efb584153b8c8f",
+    "bridge_to_ethereum_transaction_hash": "0xb81051643c151883f89706caf01d85ae3bccbc56169e26c59be839c30e3908af",
+    "direction": 2,
+    "amount_bridged": 59934029069285975156551344245
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+        "transaction_hash": "0xcd5477df325d7112d8374a0abd83e71af54e81690cd329d2f5e8c7f1bc2601a8",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 42422027071598725161083,
+                "amount_out": 472273739178627240,
+                "event_index": 40
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xdc7612f496bf996ac8f831ae0a3094007d0423c960b140a7ce86241ce1a816f9",
+    "bridge_to_ethereum_transaction_hash": "0xae999df6e4f03f1a8033890ad6cd0b00f57ae99275a1ffb9380608f8f5a7e8c3",
+    "direction": 2,
+    "amount_bridged": 42422027071598725161083
+},
+{
+    "ethereum_leg": {
+        "token_address": "0xcDa4e840411C00a614aD9205CAEC807c7458a0E3",
+        "transaction_hash": "0xd047a0b7a13311af1978c98eff4c042b180b3e05c7ee8d46d58cdf9bf048c463",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0xcDa4e840411C00a614aD9205CAEC807c7458a0E3",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 5333106763733932990099,
+                "amount_out": 298467678692688664,
+                "event_index": 68
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xc02c8bc3fc1f31c7991ea5dd44f791b08d751e123bf06eff14ddbe40157bf412",
+    "bridge_to_ethereum_transaction_hash": "0xe8519b30986c71f5f8461d6da4bc00a0a5f59c829a555f5cbb23968eae8a7ca7",
+    "direction": 2,
+    "amount_bridged": 5333106763733932990099
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+        "transaction_hash": "0x4a90f7214dd895054f6c0122b6c10fed6f6cba2688eb0b1fcdc15450ea887313",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 15916520444742368172676,
+                "amount_out": 742706423849522949,
+                "event_index": 83
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x502fdb487ef9b28db104782d6f49fe5af09b90de0db185b0b201e8f199b0ca72",
+    "bridge_to_ethereum_transaction_hash": "0x6e0d675bf61116d2d4bfb7e3d39b5afb712d95cf6a93112a8d29f521b770c67f",
+    "direction": 2,
+    "amount_bridged": 15916520444742368172676
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+        "transaction_hash": "0x357e2a75508b2a96a62df4c4768e0357f4d650d8f115dc1b60de3e0151effd0d",
+        "searcher_eoa_address": "0x0a6c69327d517568E6308F1E1CD2fD2B2b3cd4BF",
+        "searcher_contract_address": "0x3fA6Fff7212D3fA4317cF1955fa690993d8ceD70",
+        "swaps": [
+            {
+                "token_in": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 3554669845278212261975,
+                "amount_out": 124152617783911200,
+                "event_index": 23
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x774167ace12be49abcab781ede873ca753242ddcde3284ca6e2013116f280e50",
+    "bridge_to_ethereum_transaction_hash": "0x73eb29f7fb494c2999cf4a646a05da78e945fd6bcf450af4dc6f6248c8da2998",
+    "direction": 2,
+    "amount_bridged": 3554669845278212261975
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+        "transaction_hash": "0xd1be75e4d851a41a9ff158aec012e7c9914802f08718f23ff3d03787415b3e00",
+        "searcher_eoa_address": "0xf9Ac535B6192D33DD5BCB4d088e1C11DeA9B7c3B",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 3493086926154888417897,
+                "amount_out": 104706099682647813,
+                "event_index": 10
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0xe03ff8edb154593a8d1aec6f419fb07cf43aa52431bbfde4b01f434eb136bbe3",
+    "bridge_to_ethereum_transaction_hash": "0xb7a603d4c4f64a72f45a6a7376126c8e3e1fc5429e54ffe400846cdb031c4967",
+    "direction": 2,
+    "amount_bridged": 3493086926154888417897
+},
+{
+    "ethereum_leg": {
+        "token_address": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
+        "transaction_hash": "0x2c0456b9952e6bc58469eb651adcde4fff0d0e7eace167602307cc22c47cfbba",
+        "searcher_eoa_address": "0x467B79AAfD7977F6d1E772e0b121047AC655C389",
+        "searcher_contract_address": "0x882d04C3D8410dDF2061B3cBA2c3522854316FEB",
+        "swaps": [
+            {
+                "token_in": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
+                "token_out": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "amount_in": 54877013543854907246924,
+                "amount_out": 219635891085390934,
+                "event_index": 31
+            }
+        ],
+        "gas_paid": null
+    },
+    "bridge_from_ethereum_transaction_hash": "0x9059c5dd1e7d465d0fdecf48ad52346bc9ff6eaf9ab28173cd786ff41493b34d",
+    "bridge_to_ethereum_transaction_hash": "0x1483a5d709737e4a7355b5ca66c9e8b64cf60f8e5c3b8f1167a0d051bb755a33",
+    "direction": 2,
+    "amount_bridged": 54877013543854907246924
+}]

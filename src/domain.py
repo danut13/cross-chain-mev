@@ -1,36 +1,26 @@
 """Module which encapsulates the core domain objects.
 
 """
+import dataclasses
 import enum
 import typing
 
-import eth_typing
 import web3.constants
+import web3.contract.contract
 import web3.types
-
-Block = web3.types.BlockData
-HexStr = eth_typing.encoding.HexStr
-ChecksumAddress = eth_typing.ChecksumAddress
-HexAddress = eth_typing.HexAddress
-TimeStamp = web3.types.Timestamp
-Wei = web3.types.Wei
-ADDRESS_ZERO = web3.constants.ADDRESS_ZERO
-TransactionTrace = typing.NewType('TransactionTrace', dict[str, typing.Any])
-BlockTrace = typing.NamedTuple(
-    'BlockTrace', [('block_number', int),
-                   ('transaction_traces', list[TransactionTrace])])
 
 
 class MevType(enum.IntEnum):
     """Enumeration of MEV types.
 
     """
-    SANDWICH = 0
-    BACKRUN = 1
-    LIQUID = 2
-    ARB = 3
-    FRONTRUN = 4
-    SWAP = 5
+    NONE = 0
+    SANDWICH = 1
+    BACKRUN = 2
+    LIQUID = 3
+    ARB = 4
+    FRONTRUN = 5
+    SWAP = 6
 
     @staticmethod
     def from_name(name: str) -> 'MevType':
@@ -54,36 +44,97 @@ class MevType(enum.IntEnum):
         raise NameError(name)
 
 
-class ProtocolType(enum.IntEnum):
-    """Enumeration of Protocol types. For the scope of this analysis,
-    it's only relevant if the transaction has toucheda single
-    or multiple protocols.
+class PolygonBridgeInteraction(enum.IntEnum):
+    """Enumeration of Polygon bridge interaction types.
 
     """
     NONE = 0
-    SINGLE = 1
-    MULTIPLE = 2
-
-    @staticmethod
-    def from_name(name: typing.Optional[str]) -> 'ProtocolType':
-        """Find an enumeration member by its name.
-
-        Parameters
-        ----------
-        name : str
-            The name to search for.
-
-        """
-        if name is None:
-            return ProtocolType.NONE
-        if name == 'multiple':
-            return ProtocolType.MULTIPLE
-        return ProtocolType.SINGLE
+    FROM_ETHEREUM = 1
+    TO_ETHEREUM = 2
 
 
-class Transaction(web3.types.TxData):
-    mev_type: typing.Optional[MevType]
-    protocol_type: typing.Optional[ProtocolType]
+@dataclasses.dataclass
+class Transaction:
+    """The transaction model.
+
+    """
+    block_number: int
+    transaction_hash: str
+    transaction_index: int
+    mev_type: MevType
+    polygon_bridge_interaction: PolygonBridgeInteraction
     coinbase_transfer_value: int
-    user_swap_count: int
-    interacts_with_polygon_bridge: bool
+
+
+ADDRESS_ZERO = web3.constants.ADDRESS_ZERO
+Block = web3.types.BlockData
+TransactionTrace = typing.NewType('TransactionTrace', dict[str, typing.Any])
+BlockTrace = typing.NamedTuple(
+    'BlockTrace', [('block_number', int),
+                   ('transaction_traces', list[TransactionTrace])])
+
+
+@dataclasses.dataclass
+class Swap:
+    """Information about the swap.
+
+    """
+    token_in: str
+    token_out: str
+    amount_in: int
+    amount_out: int
+    event_index: typing.Optional[int] = None
+
+
+@dataclasses.dataclass
+class EthereumLeg:
+    """The Ethereum leg information of the cross-chain MEV extraction.
+
+    """
+    token_address: str
+    transaction_hash: str
+    searcher_eoa_address: str
+    searcher_contract_address: str
+    swaps: list[Swap]
+    gas_paid: typing.Optional[int] = None
+
+
+@dataclasses.dataclass
+class PolygonLeg:
+    """The Polygon leg information of the cross-chain MEV extraction.
+
+    """
+    token_address: str
+    bridge_transaction_hash: str
+    swap_transaction_hash: str
+    searcher_eoa_address: str
+    searcher_contract_address: str
+    swaps: list[Swap]
+    bridge_transaction_gas_paid: typing.Optional[int] = None
+    swap_transaction_gas_paid: typing.Optional[int] = None
+
+
+@dataclasses.dataclass
+class CrossChainMevExtraction:
+    """Cross-chain MEV extraction information.
+
+    """
+    ethereum_leg: EthereumLeg
+    polygon_leg: PolygonLeg
+    direction: PolygonBridgeInteraction
+    amount_bridged: int
+    is_cyclic_arbitrage: bool = False
+    profit_amount: typing.Optional[str] = None
+    profit_token_symbol: typing.Optional[str] = None
+
+
+@dataclasses.dataclass
+class CrossChainMevFailedExtraction:
+    """Failed cross-chain MEV extraction information.
+
+    """
+    ethereum_leg: EthereumLeg
+    bridge_from_ethereum_transaction_hash: str
+    bridge_to_ethereum_transaction_hash: str
+    direction: PolygonBridgeInteraction
+    amount_bridged: int

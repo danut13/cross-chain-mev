@@ -6,7 +6,9 @@ import logging
 
 from src.database import initialize_database
 from src.database.access import delete_block_data
-from src.database.access import get_all_blocks
+from src.database.access import get_all_block_numbers
+from src.database.access import get_all_block_numbers_with_traces_processed
+from src.database.access import get_all_meved_block_numbers
 from src.logging import initialize_logging
 
 _logger = logging.getLogger(__name__)
@@ -17,7 +19,40 @@ def view_data():
     """View which block data is saved.
 
     """
-    blocks = sorted(get_all_blocks())
+    blocks_fetched = get_all_block_numbers()
+    blocks_meved = get_all_meved_block_numbers()
+    blocks_traces_processed = get_all_block_numbers_with_traces_processed()
+    print('Blocks fetched:')
+    _print_all_blocks_intervals(blocks_fetched)
+    print('Blocks MEVed:')
+    _print_all_blocks_intervals(blocks_meved)
+    print('Blocks with the traces processed:')
+    _print_all_blocks_intervals(blocks_traces_processed)
+
+
+def delete_data(block_number_start: int, block_number_end: int):
+    """Delete block data from the start block number
+    to the end block number.
+
+    Parameters
+    ----------
+    block_number_start : int
+        The number of the block to start the deletion from.
+    block_number_end : int
+        The number of the block to end the deletion at.
+
+    """
+    if block_number_start > block_number_end:
+        print('block_number_start has to be lower or equal '
+              'than block_number_end')
+        return
+    number_of_deleted_blocks = delete_block_data(block_number_start,
+                                                 block_number_end)
+    print(f'{number_of_deleted_blocks} blocks have been deleted.')
+
+
+def _print_all_blocks_intervals(block_numbers: list[int]):
+    blocks = sorted(block_numbers)
     blocks_len = len(blocks)
     if blocks_len == 0:
         print('No blocks are saved.')
@@ -44,27 +79,6 @@ def _print_blocks(block_number_start: int, block_number_end: int):
         number_of_blocks = block_number_end - block_number_start + 1
         print(f'from {block_number_start} to {block_number_end} '
               f'{number_of_blocks} blocks')
-
-
-def delete_data(block_number_start: int, block_number_end: int):
-    """Delete block data from the start block number
-    to the end block number.
-
-    Parameters
-    ----------
-    block_number_start : int
-        The number of the block to start the deletion from.
-    block_number_end : int
-        The number of the block to end the deletion at.
-
-    """
-    if block_number_start > block_number_end:
-        print('block_number_start has to be lower or equal '
-              'than block_number_end')
-        return
-    number_of_deleted_blocks = delete_block_data(block_number_start,
-                                                 block_number_end)
-    print(f'{number_of_deleted_blocks} blocks have been deleted.')
 
 
 def main():

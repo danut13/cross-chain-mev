@@ -19,7 +19,7 @@ format:
 
 .PHONY: init
 init:
-	if [ ! -d .data ]; then \
+	if [ ! -d data ]; then \
 		mkdir data; \
 	fi
 	if [ ! -d .venv ]; then \

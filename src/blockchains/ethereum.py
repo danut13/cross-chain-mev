@@ -275,7 +275,8 @@ class EthereumService:
                     locked_mintable_erc20_contract.events.LockedMintableERC20(
                         ).process_receipt(receipt, errors=web3.logs.DISCARD)
 
-                logs = decoded_locked_erc20_logs + decoded_locked_mintable_erc20_logs
+                logs = (decoded_locked_erc20_logs +
+                        decoded_locked_mintable_erc20_logs)
                 if len(logs) == 1:
                     log = logs[0]
                     return log['args']['rootToken'], log['args'][

@@ -395,6 +395,26 @@ class EthereumService:
                 _logger.error(f'error reason: {error}')
                 time.sleep(REQUEST_RETRY_SECONDS)
 
+    def get_transaction_timestamp_and_gas_price(
+            self, transaction_hash: str) -> tuple[int, int]:
+        """Get the transaction's timestamp.
+
+        """
+        while True:
+            try:
+                transaction_receipt = self._w3.eth.get_transaction_receipt(
+                    eth_typing.HexStr(transaction_hash))
+                block_number = transaction_receipt['blockNumber']
+                block = self._w3.eth.get_block(block_number)
+                return block['timestamp'], transaction_receipt[
+                    "effectiveGasPrice"]
+            except Exception as error:
+                _logger.error('unable to get timestamp for '
+                              f'for {transaction_hash} '
+                              f'retrying in {REQUEST_RETRY_SECONDS}')
+                _logger.error(f'error reason: {error}')
+                time.sleep(REQUEST_RETRY_SECONDS)
+
     def __format_balance(self, balance: int, decimals: int) -> str:
         if balance == 0:
             return '0'
